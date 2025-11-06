@@ -147,7 +147,8 @@ We warmly welcome any new work that we may have overlooked. Please email [**Hanz
 4. **[2024]** PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[Arxiv]](https://arxiv.org/abs/2403.01804)
 5. **[2025]** Fence Theorem: Towards Dual-Objective Semantic-Structure Isolation in Preprocessing Phase for 3D Anomaly Detection [[ICCVW2025]](https://arxiv.org/abs/2503.01100v2)
 6. **[2025]** Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[Arxiv]](https://arxiv.org/abs/2507.07435) [[code]](https://github.com/hustCYQ/MiniShift-Simple3D/blob/main/README.md)
-7. **[2025]** Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data [[Arxiv]](https://arxiv.org/abs/2502.03876)
+7. **[2025]** 3D multimodal feature for infrastructure anomaly detection [[Automation in Construction2025]](https://arxiv.org/pdf/2502.05779) [[code]](https://github.com/Jingyixiong/3D-Multi-FPFHI)
+8. **[2025]** Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data [[Arxiv]](https://arxiv.org/abs/2502.03876)
 
 #### 2.2.2 Deep Feature Extractors
 1. **[2022]** Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples [[Arxiv2022]](https://arxiv.org/abs/2210.17258)
