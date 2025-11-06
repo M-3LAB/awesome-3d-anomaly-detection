@@ -1,2 +1,225 @@
-# Awesome-3AD
-We have summarised all 3D anomaly detection methods.
+# Awesome 3D Anomaly Detection (Awesome 3AD) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+We discuss public datasets and related studies in detail. Welcome to read our paper and make comments. 
+
+We warmly welcome any new work that we may have overlooked. Please email [**Hanzhe Liang**](mailto:2023362051@email.szu.edu.cn) and copy in [**Bingyang Guo**](mailto:wxqdmr@gmail.com) to ensure nothing is missed.
+
+⭐⭐⭐ We are currently drafting the review, which you will soon have access to. All literature within this GitHub repository will be cited and discussed. Furthermore, we shall provide a comprehensive benchmark to evaluate the principal methodologies. Contributions from any approach are welcome!!
+
+🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.
+
+## Table of Contents
+
+- [2. Multimodal 3D Anomaly Detection](#2-multimodal-3d-anomaly-detection)
+  - [2.1 Depth(2.5D)+RGB](#21-depth25drgb)
+    - [Feature-embedding Method](#feature-embedding-method)
+    - [Feature-reconstruction Method](#feature-reconstruction-method)
+      - [U-Net Method](#u-net-method)
+      - [Autoencoder-based Method](#autoencoder-based-method)
+  - [2.2 Point Cloud+RGB](#22-point-cloudrgb)
+    - [Feature-embedding Method](#feature-embedding-method-1)
+      - [Teacher-Student Method](#teacher-student-method)
+      - [Memory-bank Method](#memory-bank-method)
+    - [Feature-reconstruction Method](#feature-reconstruction-method-1)
+      - [Transformer-based Method](#transformer-based-method)
+      - [Flow-based Method](#flow-based-method)
+      - [GAN-based Method](#gan-based-method)
+      - [Autoencoder-based Method](#autoencoder-based-method-1)
+  - [2.3 Beyond Unimodal](#23-beyond-unimodal)
+- [3. PointCloud 3D Anomaly Detection](#3-pointcloud-3d-anomaly-detection)
+  - [Feature-reconstruction Method](#feature-reconstruction-method-2)
+    - [Transformer-based Method](#transformer-based-method-1)
+    - [Offset-based Method](#offset-based-method)
+    - [Shape descriptor Method](#shape-descriptor-method)
+  - [Feature-embedding Method](#feature-embedding-method-2)
+    - [Handcrafted Mathematical Operators](#handcrafted-mathematical-operators)
+    - [Deep Feature Extractors](#deep-feature-extractors)
+    - [Multi-view Feature Representation](#multi-view-feature-representation)
+  - [Zero-shot LLM Method](#zero-shot-llm-method)
+- [4. Pose-agnostic 3D Anomaly Detection](#4-pose-agnostic-3d-anomaly-detection)
+  - [4.1 Multi-view](#41-multi-view)
+  - [4.2 Image-query](#42-image-query)
+- [5. Datasets and Metrics](#5-datasets-and-metrics)
+  - [M3AD(MvTec3D-AD...)](#m3admvtec3d-ad)
+  - [PA3AD(MAD...)](#pa3admad)
+  - [PC3AD(Real3D-AD...)](#pc3adreal3d-ad)
+
+---
+
+## 2. Multimodal 3D Anomaly Detection
+
+### 2.1 Depth(2.5D)+RGB
+
+#### Feature-embedding Method
+1. [**2022**]Asymmetric Student-Teacher Networks for Industrial Anomaly Detection [[WACV 2022]](https://arxiv.org/pdf/2210.07829.pdf)
+2. [**2024**]LPFSTNet: A lightweight and parameter-free head attention-based student–teacher network for fast 3D industrial anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/abs/pii/S0925231225000803)
+3. [**2024**]Rethinking Reverse Distillation for Multi-Modal Anomaly Detection [[AAAI 2024]](https://ojs.aaai.org/index.php/AAAI/article/view/28687)
+4. [**2025**]Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[Arxiv]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
+5. [**2024**]Cross-Modal Distillation in Industrial Anomaly Detection: Exploring Efficient Multi-Modal IAD [[Information Fusion]](https://arxiv.org/abs/2405.13571)[[code]](https://github.com/evenrose/CMDIAD)
+
+#### Feature-reconstruction Method
+
+##### U-Net Method
+1. [**2023**]EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925) [[code]](https://github.com/TaoTao9/EasyNet/blob/main/README.md)
+2. [**2023**]Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data [[EIT]](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.13289?af=R)
+
+##### Autoencoder-based Method
+1. [**2024**]Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Zavrtanik_Cheating_Depth_Enhancing_3D_Surface_Anomaly_Detection_via_Depth_Simulation_WACV_2024_paper.pdf) [[code]](https://github.com/VitjanZ/3DSR)
+2. [**2024**]Keep DRÆMing: Discriminative 3D anomaly detection through anomaly simulation [[PRL 2024]](https://www.sciencedirect.com/science/article/pii/S0167865524000862)
+3. [**2024**]3D Industrial anomaly detection via dual reconstruction network [[Applied Intelligence]](https://link.springer.com/article/10.1007/s10489-024-05700-x)
+4. [**2025**]Revisiting Multimodal Fusion for 3D Anomaly Detection from an Architectural Perspective [[AAAI 2025]](https://arxiv.org/abs/2412.17297) [[code]](https://github.com/longkaifang/3D-ADNAS)
+5. [**2025**]AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf)
+6. [**2025**]BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection [[MM2025]](https://arxiv.org/pdf/2507.19253) [[code]](https://github.com/Xantastic/BridgeNet)
+7. [**2025**]DAS3D: Dual-modality Anomaly Synthesis for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2412.08949) [[code]](https://github.com/hito2448/TRD)
+
+### 2.2 Point Cloud+RGB
+
+#### Feature-embedding Method
+
+##### Teacher-Student Method
+1. [**2022**]Anomaly detection in 3d point clouds using deep geometric descriptors [[WACV2022]](https://www.scitepress.org/Link.aspx?doi=10.5220/0010865000003124)
+2. [**2022**]The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization [[VISAPP2022]](https://www.scitepress.org/Link.aspx?doi=10.5220/0010865000003124)
+3. [**2024**]Memoryless Multimodal Anomaly Detection via Student-Teacher Network and Signed Distance Learning [[PRCV2024]](https://arxiv.org/abs/2409.05378)
+4. [**2024**]Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners [[Arxiv]](https://arxiv.org/abs/2412.08949) [[code]](https://github.com/hito2448/TRD)
+5. [**2024**]Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation [[Arxiv]](https://arxiv.org/pdf/2405.13571)
+
+##### Memory-bank Method
+1. [**2023**]Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [[CVPRW2023]](https://arxiv.org/pdf/2203.05550.pdf)[[code]](https://github.com/eliahuhorwitz/3D-ADS)
+2. [**2023**]Multimodal Industrial Anomaly Detection via Hybrid Fusion [[CVPR 2023]](https://arxiv.org/abs/2303.00601)[[code]](https://github.com/nomewang/M3DM)
+3. [**2024**]M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising [[TPAMI]](https://arxiv.org/abs/2406.02263)
+4. [**2023**]Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML 2023]](https://openreview.net/forum?id=IkSGn9fcPz)
+5. [**2024**]Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2401.03145)
+
+#### Feature-reconstruction Method
+
+##### Transformer-based Method
+1. [**2024**]Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping [[CVPR2024]](https://arxiv.org/abs/2312.04521) [[code]](https://github.com/CVLAB-Unibo/crossmodal-feature-mapping)
+2. [**2025**]Fusion-restoration model for industrial multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225007453)
+3. [**2025**]Multimodal Industrial Anomaly Detection via Uni-Modal and Cross-Modal Fusion [[TII]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10948502)
+4. [**2025**]3D-MMFN: Multi-level Multimodal Fusion Network for 3D Industrial Image Anomaly Detection [[AEI]](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001776) [[code]](https://github.com/asadmujtaba/3DMMFN)
+
+##### Flow-based Method
+1. [**2025**]MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
+2. [**2025**]2M3DF: Advancing 3D Industrial Defect Detection With Multi-Perspective Multimodal Fusion Network [[TCSVT]](https://ieeexplore.ieee.org/document/10858074)
+
+##### GAN-based Method
+1. [**2024**]Uni-3DAD: GAN-Inversion Aided Universal 3D Anomaly Detection on Model-free Products [[ESWA]](https://arxiv.org/abs/2408.16201) [[code]](https://github.com/JiayuLiu666/Uni3DAD)
+
+##### Autoencoder-based Method
+1. [**2024**]Incremental Template Neighborhood Matching for 3D anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002546)
+2. [**2025**]G$^2$SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection [[ICCV2025]](https://arxiv.org/html/2503.10091v1)
+3. [**2025**]CPIR: Multimodal Industrial Anomaly Detection via Latent Bridged Cross-modal Prediction and Intra-modal Reconstruction [[AEI]](https://www.sciencedirect.com/science/article/pii/S1474034625001338)
+
+### 2.3 Beyond Unimodal
+1. [**2025**]Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR2025]](https://arxiv.org/abs/2412.14592) [[code]](https://github.com/ZZZBBBZZZ/MulSen-AD/)
+
+## 3. PointCloud 3D Anomaly Detection
+
+### Feature-reconstruction Method
+
+#### Transformer-based Method
+1. [**2021**]Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder [[ICIP2021]](https://arxiv.org/abs/2304.03420)[[code]](https://github.com/llien30/point_cloud_anomaly_detection)
+2. [**2024**]Anomaly-ShapeNet: A Synthetic Dataset of Point Cloud Anomaly Detection [[CVPR2024]](https://github.com/Chopper-233/Anomaly-ShapeNet) [[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
+3. [**2025**]Taming Anomalies with Down-Up Sampling Networks: Group Center Preserving Reconstruction for 3D Anomaly Detection [[MM2025]](https://arxiv.org/abs/2507.03903#:~:text=In%20this%20study%2C%20a%20Down-Up%20Sampling%20Network%20%28DUS-Net%29,detection%20by%20preserving%20the%20group%20center%20geometric%20structure.)
+4. [**2025**]MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI2025]](https://arxiv.org/abs/2505.01969)[[code]](https://github.com/iCAN-SZU/MC3D-AD)
+5. [**2025**]C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor [[Arxiv2025]](https://arxiv.org/abs/2508.01311)[[code]](https://github.com/hzzzzzhappy/C3DAD)
+6. [**2025**]Anomaly-Aware Siamese Comparative Transformer for 3D Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555382)
+
+#### Offset-based Method
+1. [**2024**]R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV2024]](https://arxiv.org/abs/2407.10862) [[code]](https://zhouzheyuan.github.io/r3d-ad)
+2. [**2025**]PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection [[CVPR2025]](https://arxiv.org/abs/2412.12617) [[code]](https://github.com/yjnanan/PO3AD)
+3. [**2025**]Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2505.05901)[[code]](https://github.com/hzzzzzhappy/MC4AD)
+
+#### Shape descriptor Method
+1. [**2023**]Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML2023]](https://openreview.net/pdf?id=IkSGn9fcPz)[[code]](https://github.com/jayliu0313/Shape-Guided)
+2. [**2024**]3D-CSAD: Untrained 3D Anomaly Detection for Complex Manufacturing Surfaces [[Arxiv]](https://arxiv.org/abs/2404.07748)
+3. [**2025**]Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation [[ICCV2025]](https://arxiv.org/abs/2505.24431) [[code]](https://github.com/ZZZBBBZZZ/PASDF)
+4. [**2025**]Exploiting Point-Language Models with Dual-Prompts for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2502.11307)
+5. [**2025**]3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering [[Arxiv]](https://arxiv.org/pdf/2507.13110)
+6. [**2025**]3D-PNAS: 3D Industrial Surface Anomaly Synthesis with Perlin Noise [[Arxiv]](https://arxiv.org/abs/2504.12856)
+
+### Feature-embedding Method
+
+#### Handcrafted Mathematical Operators
+1. [**2022**]Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors [[WACV 2022]](https://arxiv.org/abs/2202.11660)
+2. [**2023**]Back to the Feature: Classical 3D Features are (Almost) All You Need for 3D Anomaly Detection [[CVPRW2023]](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Horwitz_Back_to_the_Feature_Classical_3D_Features_Are_Almost_All_CVPRW_2023_paper.pdf)[[code]](https://github.com/eliahuhorwitz/3D-ADS/blob/main/README.md)
+3. [**2024**]Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120)[[code]](https://github.com/caoyunkang/CPMF)
+4. [**2024**]PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features [[Arxiv]](https://arxiv.org/abs/2403.01804)
+5. [**2025**]Fence Theorem: Towards Dual-Objective Semantic-Structure Isolation in Preprocessing Phase for 3D Anomaly Detection [[ICCVW2025]](https://arxiv.org/abs/2503.01100v2)
+6. [**2025**]Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[Arxiv2025]](https://arxiv.org/abs/2507.07435)[[code]](https://github.com/hustCYQ/MiniShift-Simple3D/blob/main/README.md)
+
+#### Deep Feature Extractors
+1. [**2022**]Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples[[Arxiv2022]](https://arxiv.org/abs/2210.17258)
+2. [**2023**]Towards Total Recall in Industrial Anomaly Detection [[CVPR2023]](https://arxiv.org/abs/2106.08265)[[code]](https://github.com/M-3LAB/Real3D-AD/tree/main/patchcore)
+3. [**2023**]Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/611b896d447df43c898062358df4c114-Abstract-Datasets_and_Benchmarks.html)[[code]](https://github.com/m-3lab/real3d-ad)
+4. [**2024**]Towards High-resolution 3D Anomaly Detection via Group-Level Feature Contrastive Learning [[MM2024]](https://dl.acm.org/doi/abs/10.1145/3664647.3680919)
+5. [**2024**]Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI2025]](https://arxiv.org/abs/2412.13461)[[code]](https://github.com/M-3LAB/Look-Inside-for-More)
+6. [**2025**]Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [[TASE]](https://ieeexplore.ieee.org/document/10898004)[[code]](https://github.com/hustCYQ/GLFM-Multi-class-3DAD/blob/main/README.md)
+7. [**2025**]Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NIPS2025]](https://arxiv.org/abs/2510.16865)[[code]](https://github.com/CHen-ZH-W/Reg2Inv)
+
+#### Multi-view Feature Representation
+1. [**2024**]Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120)[[code]](https://github.com/caoyunkang/CPMF)
+2. [**2024**]Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI2025]](https://arxiv.org/abs/2412.13461)[[code]](https://github.com/M-3LAB/Look-Inside-for-More)
+3. [**2024**]Looking 3D: Anomaly Detection with 2D-3D Alignment [[CVPR2024]](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Bhunia_Looking_3D_Anomaly_CVPR_2024_supplemental.pdf)[[code]](https://github.com/VICO-UoE/Looking3D)
+4. [**2025**]Multi-View Reconstruction with Global Context for 3D Anomaly Detection [[IEEE SMC]](https://arxiv.org/abs/2507.21555)[[code]](https://github.com/hustSYH/MVR/blob/master/README.md)
+
+### Zero-shot LLM Method
+1. [**2023**]Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [[Arxiv2023]](https://arxiv.org/abs/2311.02782)
+2. [**2024**]PointAD-Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS2024]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9a263e235f6d1521d13a8531c7974951-Abstract-Conference.html)[[code]](https://github.com/zqhang/PointAD)
+3. [**2024**]Towards Zero-shot 3D Anomaly Localization [[WACV2024]](https://arxiv.org/pdf/2412.04304)[[code]](https://github.com/wyzjack/3DzAL?tab=readme-ov-file)
+4. [**2024**]Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[Arxiv2024]](https://arxiv.org/abs/2409.13162)[[code]](https://github.com/hustCYQ/MVP-PCLIP)
+5. [**2024**]CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation [[Arxiv2024]](https://arxiv.org/abs/2406.18941)
+6. [**2025**]Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning [[IEEE ICCSCWD2025]](https://arxiv.org/pdf/2403.11083)[[code]](https://github.com/Xiaohao-Xu/Customizable-VLM)
+7. [**2025**]PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection [[Submitted to TPAMI]](https://arxiv.org/pdf/2509.03277)
+8. [**2025**]MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection [[Arxiv2025]](https://arxiv.org/abs/2509.10282)
+ 
+## 4. Pose-agnostic 3D Anomaly Detection
+
+### 4.1 Multi-view
+1. [**2025**]SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark [[ICCV2025]](https://arxiv.org/abs/2506.21549) [[code]](https://arxiv.org/abs/2506.21549)
+2. [**2025**]Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[Arxiv]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
+
+### 4.2 Image-query
+1. [**2023**]PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS2023]](https://papers.nips.cc/paper/2023/file/8bc5aef775aacc1650a9790f1428bcea-Paper-Datasets_and_Benchmarks.pdf#:~:text=We%20introduced%20Pose-agnostic%20Anomaly%20Detection%20%28PAD%29%2C%20a%20challenging,forward%20to%20pratical%20anomaly%20detection%20and%20localization%20tasks.) [[code]](https://github.com/EricLee0224/PAD)
+2. [**2024**]SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection [[CVPRW2024]](https://arxiv.org/abs/2404.06832) [[code]](https://github.com/m-kruse98/SplatPose)
+3. [**2024**]SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection [[ECCVW2024]](https://arxiv.org/pdf/2404.06832) [[code]](https://github.com/Yizhe-Liu/SplatPosePlus)
+4. [**2025**]PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)
+
+## 5. Datasets and Metrics
+
+### M3AD(MvTec3D-AD...)
+1. [**2022**]The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization [[VISAPP2022]](https://www.scitepress.org/Link.aspx?doi=10.5220/0010865000003124)
+2. [**2022**]The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization [[ACCV2022]](https://eyecan-ai.github.io/eyecandies/)
+3. [**2023**]Image-Pointcloud Fusion based Anomaly Detection using PD-REAL Dataset [[Arxiv]](https://arxiv.org/abs/2311.04095)[[data]](https://github.com/Andy-cs008/PD-REAL)
+4. [**2025**]3D-ADAM: A Dataset for 3D Anomaly Detection in Advanced Manufacturing [[Arxiv]](https://arxiv.org/abs/2507.07838)
+5. [**2025**]SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark [[ICCV2025]](https://arxiv.org/abs/2506.21549) [[code]](https://arxiv.org/abs/2506.21549)
+6. [**2026**]3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing [[Arxiv2025]](https://arxiv.org/abs/2507.07838)
+
+### PA3AD(MAD...)
+1. [**2023**]PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS2023]](https://papers.nips.cc/paper/2023/file/8bc5aef775aacc1650a9790f1428bcea-Paper-Datasets_and_Benchmarks.pdf#:~:text=We%20introduced%20Pose-agnostic%20Anomaly%20Detection%20%28PAD%29%2C%20a%20challenging,forward%20to%20pratical%20anomaly%20detection%20and%20localization%20tasks.) [[code]](https://github.com/EricLee0224/PAD)
+2. [**2024**]Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection [[code]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
+3. [**2025**]PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)
+4. [**2025**]Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era [[Arxiv]](https://arxiv.org/abs/2511.00540)
+
+### PC3AD(Real3D-AD...)
+1. [**2023**]Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/611b896d447df43c898062358df4c114-Abstract-Datasets_and_Benchmarks.html)[[code]](https://github.com/m-3lab/real3d-ad)
+2. [**2024**]Anomaly-ShapeNet: A Synthetic Dataset of Point Cloud Anomaly Detection [[CVPR2024]](https://github.com/Chopper-233/Anomaly-ShapeNet) [[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
+3. [**2025**]Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR2025]](https://arxiv.org/abs/2412.14592) [[code]](https://github.com/ZZZBBBZZZ/MulSen-AD/)
+4. [**2025**]Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[Arxiv]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
+5. [**2025**]Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[Arxiv]](https://arxiv.org/html/2507.07435v1) [[code]](https://github.com/hustCYQ/MiniShift-Simple3D)
+6. [**2025**]IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[Arxiv]](https://arxiv.org/pdf/2511.03267)
+
+
+
+## License
+MIT License
+
+Copyright (c) 2025 Hanzhe Liang
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=M-3LAB/Awesome-3AD&type=Date)](https://star-history.com/#M-3LAB/Awesome-3AD&Date)
