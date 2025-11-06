@@ -96,6 +96,7 @@ We warmly welcome any new work that we may have overlooked. Please email [**Hanz
 2. **[2025]** Fusion-restoration model for industrial multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225007453)
 3. **[2025]** Multimodal Industrial Anomaly Detection via Uni-Modal and Cross-Modal Fusion [[TII]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10948502)
 4. **[2025]** 3D-MMFN: Multi-level Multimodal Fusion Network for 3D Industrial Image Anomaly Detection [[AEI]](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001776) [[code]](https://github.com/asadmujtaba/3DMMFN)
+5. **[2025]** 2D–3D Feature Fusion via Cross-Modal Latent Synthesis and Attention-Guided Restoration for Industrial Anomaly Detection [[DICTA2025]](https://arxiv.org/pdf/2510.21793) [[code]](https://github.com/adabrh/MAFR)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
