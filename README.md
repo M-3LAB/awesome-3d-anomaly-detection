@@ -2,9 +2,9 @@
 
 We discuss public datasets and related studies in detail. Welcome to read our paper and make comments. 
 
-We warmly welcome any new work that we may have overlooked. Please email [**Hanzhe Liang**](mailto:2023362051@email.szu.edu.cn) and copy in [**Bingyang Guo**](mailto:wxqdmr@gmail.com) to ensure nothing is missed. Additionally, Yunkang Cao and Jinbao Wang also participated in this work.
+We warmly welcome any new work that we may have overlooked. Please email Hanzhe Liang to ensure nothing is missed. Additionally, Yunkang Cao and Jinbao Wang also participated in this work.
 
-⭐⭐⭐ We are currently drafting the review, which you will soon have access to. All literature within this GitHub repository will be cited and discussed. Furthermore, we shall provide a comprehensive benchmark to evaluate the principal methodologies. Contributions from any approach are welcome!!
+⭐⭐⭐ We are currently drafting the review, which you will soon have access to. All literature within this GitHub repository will be cited and discussed. Furthermore, [Bingyang Guo](mailto:wxqdmr@gmail.com) shall provide a comprehensive benchmark to evaluate the principal methodologies. Contributions from any approach are welcome!! 
 
 🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.
 
