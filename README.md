@@ -49,8 +49,8 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 ---
 
 ## A. AAAI2026
-1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2025]](https://arxiv.org/abs/2511.05853v1)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
-
+1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
+2. Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
 ## 1. Multimodal 3D Anomaly Detection
 
 ### 1.1 Depth(2.5D)+RGB
@@ -96,6 +96,7 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 4. **[2023]** Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML 2023]](https://openreview.net/forum?id=IkSGn9fcPz)
 5. **[2024]** Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2401.03145)
 6. **[2025]** VLDFNet: Views-Graph and Latent Feature Disentangled Fusion Network for Multimodal Industrial Anomaly Detection [[TIM 2025]](https://ieeexplore.ieee.org/document/11004494)
+7. **[2025]** Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
 
 #### 1.2.2 Feature-reconstruction Method
 
