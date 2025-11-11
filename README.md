@@ -49,7 +49,7 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 ---
 
 ## A. AAAI2026
-Will public~
+1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2025]](https://arxiv.org/abs/2511.05853v1)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 
 ## 1. Multimodal 3D Anomaly Detection
 
@@ -211,7 +211,6 @@ Will public~
 2. **[2024]** Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection [[code]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
 3. **[2025]** PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)
 4. **[2025]** Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era [[Arxiv]](https://arxiv.org/abs/2511.00540)
-
 ### 4.3 PC3AD
 1. **[2023]** Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/611b896d447df43c898062358df4c114-Abstract-Datasets_and_Benchmarks.html) [[code]](https://github.com/m-3lab/real3d-ad)
 2. **[2024]** Anomaly-ShapeNet: A Synthetic Dataset of Point Cloud Anomaly Detection [[CVPR2024]](https://github.com/Chopper-233/Anomaly-ShapeNet) [[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
@@ -219,6 +218,7 @@ Will public~
 4. **[2025]** Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[Arxiv]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
 5. **[2025]** Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[Arxiv]](https://arxiv.org/html/2507.07435v1) [[code]](https://github.com/hustCYQ/MiniShift-Simple3D)
 6. **[2025]** IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[Arxiv]](https://arxiv.org/pdf/2511.03267)
+7. **[2025]** Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2025]](https://arxiv.org/abs/2511.05853v1)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 
 ## License
 MIT License
