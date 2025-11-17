@@ -170,6 +170,7 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 6. **[2025]** Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [[TASE]](https://ieeexplore.ieee.org/document/10898004) [[code]](https://github.com/hustCYQ/GLFM-Multi-class-3DAD/blob/main/README.md)
 7. **[2025]** Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NIPS2025]](https://arxiv.org/abs/2510.16865) [[code]](https://github.com/CHen-ZH-W/Reg2Inv)
 8. **[2025]** Robust Distribution Alignment for Industrial Anomaly Detection under Distribution Shift [[Arxiv]](https://arxiv.org/abs/2503.14910)
+9. **[2025]** A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features  [[Arxiv]]()
 
 #### 2.2.3 Multi-view Feature Representation
 1. **[2024]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [[code]](https://github.com/caoyunkang/CPMF)
