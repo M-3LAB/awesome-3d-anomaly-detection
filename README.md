@@ -187,6 +187,7 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 6. **[2025]** Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning [[IEEE ICCSCWD2025]](https://arxiv.org/pdf/2403.11083) [[code]](https://github.com/Xiaohao-Xu/Customizable-VLM)
 7. **[2025]** PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection [[Submitted to TPAMI]](https://arxiv.org/pdf/2509.03277)
 8. **[2025]** MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection [[Arxiv2025]](https://arxiv.org/abs/2509.10282)
+9. **[2025]** MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[Arxiv2025]](https://arxiv.org/abs/2511.10047) [[code]](https://github.com/HUST-SLOW/MuSc-V2)
  
 ## 3. Pose-agnostic 3D Anomaly Detection
 
