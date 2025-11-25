@@ -96,8 +96,9 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 3. **[2024]** M3DM-NR: RGB-3D Noisy-Resistant Industrial Anomaly Detection via Multimodal Denoising [[TPAMI]](https://arxiv.org/abs/2406.02263)
 4. **[2023]** Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML 2023]](https://openreview.net/forum?id=IkSGn9fcPz)
 5. **[2024]** Self-supervised Feature Adaptation for 3D Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2401.03145)
-6. **[2025]** VLDFNet: Views-Graph and Latent Feature Disentangled Fusion Network for Multimodal Industrial Anomaly Detection [[TIM 2025]](https://ieeexplore.ieee.org/document/11004494)
-7. **[2025]** Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
+6. **[2024]** DAUP: Enhancing point cloud homogeneity for 3D industrial anomaly detection via density-aware point cloud upsampling [[AEI]](https://www.sciencedirect.com/science/article/pii/S1474034624004713)
+7. **[2025]** VLDFNet: Views-Graph and Latent Feature Disentangled Fusion Network for Multimodal Industrial Anomaly Detection [[TIM 2025]](https://ieeexplore.ieee.org/document/11004494)
+8. **[2025]** Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
 
 #### 1.2.2 Feature-reconstruction Method
 
