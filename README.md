@@ -120,6 +120,7 @@ We warmly welcome any new work that we may have overlooked. Please email Hanzhe 
 1. **[2024]** Incremental Template Neighborhood Matching for 3D anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/abs/pii/S0925231224002546)
 2. **[2025]** G$^2$SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection [[ICCV2025]](https://arxiv.org/html/2503.10091v1)
 3. **[2025]** CPIR: Multimodal Industrial Anomaly Detection via Latent Bridged Cross-modal Prediction and Intra-modal Reconstruction [[AEI]](https://www.sciencedirect.com/science/article/pii/S1474034625001338)
+4. **[2025]** HFMM-Net: A Hybrid Fusion Mamba Network for Efficient Multimodal Industrial Defect Detection [[Information]](https://www.mdpi.com/2078-2489/16/12/1018)
 
 ### 1.3 Beyond Unimodal
 1. **[2025]** Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR2025]](https://arxiv.org/abs/2412.14592) [[code]](https://github.com/ZZZBBBZZZ/MulSen-AD/)
