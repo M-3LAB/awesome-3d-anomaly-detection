@@ -4,7 +4,9 @@ We discuss public datasets and related studies in detail. Welcome to read our pa
 
 We warmly welcome any new work that we may have overlooked.
 
-⭐⭐⭐ [3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey). We have made a preprint of a review available on ResearchGate, which will be updated regularly until it is accepted.
+[3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey)
+
+⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
 🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.
 
