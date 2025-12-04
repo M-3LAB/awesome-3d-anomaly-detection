@@ -2,9 +2,9 @@
 
 We discuss public datasets and related studies in detail. Welcome to read our paper and make comments. 
 
-We warmly welcome any new work that we may have overlooked. Please email Hanzhe Liang to ensure nothing is missed. Additionally, Yunkang Cao and Jinbao Wang also participated in this work.
+We warmly welcome any new work that we may have overlooked.
 
-⭐⭐⭐ We are currently drafting the review, which you will soon have access to. All literature within this GitHub repository will be cited and discussed. Furthermore, [Bingyang Guo](mailto:wxqdmr@gmail.com) shall provide a comprehensive benchmark to evaluate the principal methodologies. Contributions from any approach are welcome!! 
+⭐⭐⭐ [3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey). We have made a preprint of a review available on ResearchGate, which will be updated regularly until it is accepted.
 
 🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.
 
