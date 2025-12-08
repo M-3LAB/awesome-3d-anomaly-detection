@@ -183,6 +183,7 @@ We warmly welcome any new work that we may have overlooked.
 2. **[2024]** Look Inside for More: Internal Spatial Modality Perception for 3D Anomaly Detection [[AAAI2025]](https://arxiv.org/abs/2412.13461) [[code]](https://github.com/M-3LAB/Look-Inside-for-More)
 3. **[2024]** Looking 3D: Anomaly Detection with 2D-3D Alignment [[CVPR2024]](https://openaccess.thecvf.com/content/CVPR2024/papers/Bhunia_Looking_3D_Anomaly_Detection_with_2D-3D_Alignment_CVPR_2024_paper.pdf) [[code]](https://github.com/VICO-UoE/Looking3D)
 4. **[2025]** Multi-View Reconstruction with Global Context for 3D Anomaly Detection [[IEEE SMC]](https://arxiv.org/abs/2507.21555) [[code]](https://github.com/hustSYH/MVR/blob/master/README.md)
+5. **[2025]** Probing 3D Anomalies via Multi-View Registration and Dual-Residual Analysis [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5868807)
 
 ### 2.3 Zero-shot LLM Method
 1. **[2023]** Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [[Arxiv2023]](https://arxiv.org/abs/2311.02782)
