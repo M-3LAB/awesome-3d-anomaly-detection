@@ -190,12 +190,13 @@ We warmly welcome any new work that we may have overlooked.
 1. **[2023]** Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [[Arxiv2023]](https://arxiv.org/abs/2311.02782)
 2. **[2024]** PointAD-Comprehending 3D Anomalies from Points and Pixels for Zero-shot 3D Anomaly Detection [[NeurIPS2024]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/9a263e235f6d1521d13a8531c7974951-Abstract-Conference.html) [[code]](https://github.com/zqhang/PointAD)
 3. **[2024]** Towards Zero-shot 3D Anomaly Localization [[WACV2024]](https://arxiv.org/pdf/2412.04304) [[code]](https://github.com/wyzjack/3DzAL?tab=readme-ov-file)
-4. **[2024]** Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[Arxiv2024]](https://arxiv.org/abs/2409.13162) [[code]](https://github.com/hustCYQ/MVP-PCLIP)
-5. **[2024]** CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation [[Arxiv2024]](https://arxiv.org/abs/2406.18941)
+4. **[2024]** Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework [[Arxiv]](https://arxiv.org/abs/2409.13162) [[code]](https://github.com/hustCYQ/MVP-PCLIP)
+5. **[2024]** CLIP3D-AD: Extending CLIP for 3D Few-Shot Anomaly Detection with Multi-View Images Generation [[Arxiv]](https://arxiv.org/abs/2406.18941)
 6. **[2025]** Customizing Visual-Language Foundation Models for Multi-modal Anomaly Detection and Reasoning [[IEEE ICCSCWD2025]](https://arxiv.org/pdf/2403.11083) [[code]](https://github.com/Xiaohao-Xu/Customizable-VLM)
 7. **[2025]** PointAD+: Learning Hierarchical Representations for Zero-shot 3D Anomaly Detection [[Submitted to TPAMI]](https://arxiv.org/pdf/2509.03277)
-8. **[2025]** MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection [[Arxiv2025]](https://arxiv.org/abs/2509.10282)
-9. **[2025]** MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[Arxiv2025]](https://arxiv.org/abs/2511.10047) [[code]](https://github.com/HUST-SLOW/MuSc-V2)
+8. **[2025]** MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2509.10282)
+9. **[2025]** MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[Arxiv]](https://arxiv.org/abs/2511.10047) [[code]](https://github.com/HUST-SLOW/MuSc-V2)
+10. **[2025]** On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2512.02520)
  
 ## 3. Pose-agnostic 3D Anomaly Detection
 
