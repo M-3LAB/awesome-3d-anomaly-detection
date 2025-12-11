@@ -101,6 +101,7 @@ We warmly welcome any new work that we may have overlooked.
 6. **[2024]** DAUP: Enhancing point cloud homogeneity for 3D industrial anomaly detection via density-aware point cloud upsampling [[AEI]](https://www.sciencedirect.com/science/article/pii/S1474034624004713)
 7. **[2025]** VLDFNet: Views-Graph and Latent Feature Disentangled Fusion Network for Multimodal Industrial Anomaly Detection [[TIM 2025]](https://ieeexplore.ieee.org/document/11004494)
 8. **[2025]** Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
+9. **[2025]** Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network [[TMM]](https://ieeexplore.ieee.org/document/11248961)
 
 #### 1.2.2 Feature-reconstruction Method
 
@@ -111,6 +112,7 @@ We warmly welcome any new work that we may have overlooked.
 4. **[2025]** 3D-MMFN: Multi-level Multimodal Fusion Network for 3D Industrial Image Anomaly Detection [[AEI]](https://www.sciencedirect.com/science/article/abs/pii/S1474034625001776) [[code]](https://github.com/asadmujtaba/3DMMFN)
 5. **[2025]** 2D–3D Feature Fusion via Cross-Modal Latent Synthesis and Attention-Guided Restoration for Industrial Anomaly Detection [[DICTA2025]](https://arxiv.org/pdf/2510.21793) [[code]](https://github.com/adabrh/MAFR)
 6. **[2025]** Unsupervised 3D Anomaly Detection Method Using Fusion of Point Cloud and Image Features [[SAFEPROCESS]](https://ieeexplore.ieee.org/document/11267808)
+7. **[2025]** Multimodal Industrial Anomaly Detection via Geometric Prior [[TCSVT]](https://ieeexplore.ieee.org/document/11178073)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
@@ -179,6 +181,7 @@ We warmly welcome any new work that we may have overlooked.
 7. **[2025]** Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NIPS2025]](https://arxiv.org/abs/2510.16865) [[code]](https://github.com/CHen-ZH-W/Reg2Inv)
 8. **[2025]** Robust Distribution Alignment for Industrial Anomaly Detection under Distribution Shift [[Arxiv]](https://arxiv.org/abs/2503.14910)
 9. **[2025]** A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features  [[Arxiv]](https://arxiv.org/abs/2511.13115) [[code]](https://github.com/hzzzzzhappy/RIF/blob/main/README.md)
+10. **[2025]** Unsupervised Feature Metric-Based Multimodal Anomaly Detection Method [[CAIBDA]](https://ieeexplore.ieee.org/document/11183147)
 
 #### 2.2.3 Multi-view Feature Representation
 1. **[2024]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [[code]](https://github.com/caoyunkang/CPMF)
