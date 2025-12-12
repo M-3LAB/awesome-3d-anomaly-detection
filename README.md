@@ -91,6 +91,7 @@ We warmly welcome any new work that we may have overlooked.
 4. **[2024]** Tuned Reverse Distillation: Enhancing Multimodal Industrial Anomaly Detection with Crossmodal Tuners [[Arxiv]](https://arxiv.org/abs/2412.08949) [[code]](https://github.com/hito2448/TRD)
 5. **[2024]** Incomplete Multimodal Industrial Anomaly Detection via Cross-Modal Distillation [[Arxiv]](https://arxiv.org/pdf/2405.13571)
 6. **[2025]** FIND: Few-Shot Anomaly Inspection with Normal-Only Multi-Modal Data [[ICCV2025]](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FIND_Few-Shot_Anomaly_Inspection_with_Normal-Only_Multi-Modal_Data_ICCV_2025_paper.html)
+7. **[2025]** A method for anomaly detection of track bed based on multimodal feature fusion [[CIOP]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13990/1399045/A-method-for-anomaly-detection-of-track-bed-based-on/10.1117/12.3088067.short)
 
 ##### 1.2.1.2 Memory-bank Method
 1. **[2023]** Back to the feature: classical 3d features are (almost) all you need for 3D anomaly detection [[CVPRW2023]](https://arxiv.org/pdf/2203.05550.pdf) [[code]](https://github.com/eliahuhorwitz/3D-ADS)
