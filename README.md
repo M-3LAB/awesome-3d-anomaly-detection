@@ -147,7 +147,7 @@ We warmly welcome any new work that we may have overlooked.
 1. **[2024]** R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV2024]](https://arxiv.org/abs/2407.10862) [[code]](https://zhouzheyuan.github.io/r3d-ad)
 2. **[2025]** PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection [[CVPR2025]](https://arxiv.org/abs/2412.12617) [[code]](https://github.com/yjnanan/PO3AD)
 3. **[2025]** Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2505.05901) [[code]](https://github.com/hzzzzzhappy/MC4AD)
-4. **[2025]** UCA-3DAL: A Unified Contrastive Framework with Test-Time Adaptation for Robust 3D Anomaly Localization [[Arxiv]](https://www.researchgate.net/publication/398446535_A_Unified_Contrastive_Framework_with_Test-Time_Adaptation_for_Robust_3D_Anomaly_Localization) [[code]](https://github.com/M-3LAB/UCA-3DAL)
+4. **[2025]** UCA-3DAL: A Unified Contrastive Framework with Test-Time Adaptation for Robust 3D Anomaly Localization [[Arxiv]](https://www.researchgate.net/publication/398446535_A_Unified_Contrastive_Framework_with_Test-Time_Adaptation_for_Robust_3D_Anomaly_Localization) [[code]](https://github.com/M-3LAB/UCA-3DL)
 
 #### 2.1.3 Shape descriptor Method
 1. **[2023]** Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML2023]](https://openreview.net/pdf?id=IkSGn9fcPz) [[code]](https://github.com/jayliu0313/Shape-Guided)
