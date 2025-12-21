@@ -70,6 +70,7 @@ We warmly welcome any new work that we may have overlooked.
 ##### 1.1.2.1 U-Net Method
 1. **[2023]** EasyNet: An Easy Network for 3D Industrial Anomaly Detection [[ACM MM 2023]](https://arxiv.org/abs/2307.13925) [[code]](https://github.com/TaoTao9/EasyNet/blob/main/README.md)
 2. **[2023]** Dual-Branch Reconstruction Network for Industrial Anomaly Detection with RGB-D Data [[EIT]](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ell2.13289?af=R)
+3. **[2025]** A Local Anomaly Detection Method for Occluded Targets with Multispectral Point Clouds [[IGARSS 2025]](https://ieeexplore.ieee.org/document/11243660)
 
 ##### 1.1.2.2 Autoencoder-based Method
 1. **[2024]** Cheating Depth: Enhancing 3D Surface Anomaly Detection via Depth Simulation [[WACV 2024]](https://openaccess.thecvf.com/content/WACV2024/papers/Zavrtanik_Cheating_Depth_Enhancing_3D_Surface_Anomaly_Detection_via_Depth_Simulation_WACV_2024_paper.pdf) [[code]](https://github.com/VitjanZ/3DSR)
