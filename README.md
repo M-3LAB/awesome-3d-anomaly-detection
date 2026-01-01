@@ -216,7 +216,7 @@ We warmly welcome any new work that we may have overlooked.
 3. **[2024]** SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection [[ECCVW2024]](https://arxiv.org/pdf/2404.06832) [[code]](https://github.com/Yizhe-Liu/SplatPosePlus)
 4. **[2025]** PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)
 
-## 4. Datasets and Metrics
+## 4. Datasets
 
 ### 4.1 M3AD
 1. **[2022]** The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization [[VISAPP2022]](https://www.scitepress.org/Link.aspx?doi=10.5220/0010865000003124)
@@ -238,6 +238,8 @@ We warmly welcome any new work that we may have overlooked.
 6. **[2025]** IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[Arxiv]](https://arxiv.org/pdf/2511.03267)
 7. **[2025]** Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2025]](https://arxiv.org/abs/2511.05853v1)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 
+### 5. Others
+1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
 ## License
 MIT License
 
