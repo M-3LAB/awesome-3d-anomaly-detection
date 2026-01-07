@@ -6,7 +6,7 @@ We warmly welcome any new work that we may have overlooked.
 
 ⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
-[3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey) [**updated: v3 2026/1/5**]
+[3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey) [**updated: v4 2026/1/8**]
 
 ![Development of 3D Anomaly Detection](develop_of_3AD.png)
 
@@ -240,8 +240,22 @@ We warmly welcome any new work that we may have overlooked.
 6. **[2025]** IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[Arxiv]](https://arxiv.org/pdf/2511.03267)
 7. **[2025]** Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2025]](https://arxiv.org/abs/2511.05853v1)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 
-### 5. Others
+## 5. Others
 1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
+
+## 6. BibTex Citation
+
+If you find our paper and repository useful, please cite our paper☺️.
+
+```
+@article{liang20253dadsurvey,
+  title={3D Anomaly Detection: A Survey},
+  author={Liang, Hanzhe and Guo, Bingyang and Huang, Yawen and Lyu, Jiayi and Gao, Can and Cao, Yunkang and Wang, Jinbao and Yu, Ruiyun and Shen, Linlin and Li, Pan},
+  journal={arXiv preprint},
+  doi={10.13140/RG.2.2.21218.39361},
+  year={2025}
+}
+```
 ## License
 MIT License
 
