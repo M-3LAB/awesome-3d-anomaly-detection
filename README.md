@@ -106,6 +106,7 @@ We warmly welcome any new work that we may have overlooked.
 7. **[2025]** VLDFNet: Views-Graph and Latent Feature Disentangled Fusion Network for Multimodal Industrial Anomaly Detection [[TIM 2025]](https://ieeexplore.ieee.org/document/11004494)
 8. **[2025]** Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
 9. **[2025]** Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network [[TMM]](https://ieeexplore.ieee.org/document/11248961)
+10. **[2026]** IAENet: An importance-aware ensemble model for 3D point cloud-based anomaly detection [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253525011595)
 
 #### 1.2.2 Feature-reconstruction Method
 
