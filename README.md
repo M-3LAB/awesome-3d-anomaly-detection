@@ -131,6 +131,7 @@ We warmly welcome any new work that we may have overlooked.
 2. **[2025]** G$^2$SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection [[ICCV2025]](https://arxiv.org/html/2503.10091v1)
 3. **[2025]** CPIR: Multimodal Industrial Anomaly Detection via Latent Bridged Cross-modal Prediction and Intra-modal Reconstruction [[AEI]](https://www.sciencedirect.com/science/article/pii/S1474034625001338)
 4. **[2025]** HFMM-Net: A Hybrid Fusion Mamba Network for Efficient Multimodal Industrial Defect Detection [[Information]](https://www.mdpi.com/2078-2489/16/12/1018)
+5. **[2025]** MAESTRO: A Full Point Cloud Approach for 3D Anomaly Detection Based on Reconstruction [[VISAPP2025]](https://www.scitepress.org/Link.aspx?doi=10.5220/0013250500003912)
 
 ### 1.3 Beyond Unimodal
 1. **[2025]** Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR2025]](https://arxiv.org/abs/2412.14592) [[code]](https://github.com/ZZZBBBZZZ/MulSen-AD/)
