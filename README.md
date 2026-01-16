@@ -165,6 +165,7 @@ We warmly welcome any new work that we may have overlooked.
 7. **[2025]** Deep Subspace Learning for Surface Anomaly Classification Based on 3D Point Cloud Data [[Arxiv]](https://arxiv.org/pdf/2502.11669)
 8. **[2025]** Template3D-AD: Point Cloud Template Matching Method Based on Center Points for 3D Anomaly Detection [[IJCAI2025]](https://www.ijcai.org/proceedings/2025/0182.pdf) [[code]](https://github.com/CaedmonLY/Template3D-AD)
 9. **[2025]** CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/pdf/2511.12909) [[code]](https://github.com/zyh16143998882/CASL)
+10. **[2026]** 3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking [[Arxiv]](https://arxiv.org/pdf/2601.09294)
 
 ### 2.2 Feature-embedding Method
 
