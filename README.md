@@ -247,7 +247,7 @@ We warmly welcome any new work that we may have overlooked.
 
 ## 5. Others
 1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
-
+2. **[2026]** PointSGRADE: Sparse learning with graph representation for anomaly detection by using unstructured 3D point cloud data [[IISE Transactions ]](https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2285840)
 ## 6. BibTex Citation
 
 If you find our paper and repository useful, please cite our paper☺️.
