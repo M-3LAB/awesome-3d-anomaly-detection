@@ -12,17 +12,19 @@ We warmly welcome any new work that we may have overlooked.
 
 🔥🔥🔥 Contributions to our repository are welcome. Feel free to categorize the papers and pull requests.
 
-## Conference Summary
-- [A. AAAI2026](#a-aaai2026)
-
 ## Table of Contents
+
+- [⭐ Tutorial](#-tutorial)
+- [Conference Summary](#conference-summary)
+  - [A. AAAI2026](#a-aaai2026)
+
 - [1. Multimodal 3D Anomaly Detection](#1-multimodal-3d-anomaly-detection)
-  - [1.1 Depth(2.5D)+RGB](#11-depth25drgb)
+  - [1.1 Depth (2.5D) + RGB](#11-depth25drgb)
     - [1.1.1 Feature-embedding Method](#111-feature-embedding-method)
     - [1.1.2 Feature-reconstruction Method](#112-feature-reconstruction-method)
       - [1.1.2.1 U-Net Method](#1121-u-net-method)
       - [1.1.2.2 Autoencoder-based Method](#1122-autoencoder-based-method)
-  - [1.2 Point Cloud+RGB](#12-point-cloudrgb)
+  - [1.2 Point Cloud + RGB](#12-point-cloudrgb)
     - [1.2.1 Feature-embedding Method](#121-feature-embedding-method)
       - [1.2.1.1 Teacher-Student Method](#1211-teacher-student-method)
       - [1.2.1.2 Memory-bank Method](#1212-memory-bank-method)
@@ -32,6 +34,7 @@ We warmly welcome any new work that we may have overlooked.
       - [1.2.2.3 GAN-based Method](#1223-gan-based-method)
       - [1.2.2.4 Autoencoder-based Method](#1224-autoencoder-based-method)
   - [1.3 Beyond Unimodal](#13-beyond-unimodal)
+
 - [2. PointCloud 3D Anomaly Detection](#2-pointcloud-3d-anomaly-detection)
   - [2.1 Feature-reconstruction Method](#21-feature-reconstruction-method)
     - [2.1.1 Transformer-based Method](#211-transformer-based-method)
@@ -42,13 +45,20 @@ We warmly welcome any new work that we may have overlooked.
     - [2.2.2 Deep Feature Extractors](#222-deep-feature-extractors)
     - [2.2.3 Multi-view Feature Representation](#223-multi-view-feature-representation)
   - [2.3 Zero-shot LLM Method](#23-zero-shot-llm-method)
+
 - [3. Pose-agnostic 3D Anomaly Detection](#3-pose-agnostic-3d-anomaly-detection)
   - [3.1 Multi-view](#31-multi-view)
   - [3.2 Image-query](#32-image-query)
-- [4. Datasets and Metrics](#4-datasets-and-metrics)
-  - [4.1 M3AD (MvTec3D-AD...)](#41-m3ad-mvtec3d-ad)
-  - [4.2 PA3AD (MAD...)](#42-pa3ad-mad)
-  - [4.3 PC3AD (Real3D-AD...)](#43-pc3ad-real3d-ad)
+
+- [4. Datasets](#4-datasets)
+  - [4.1 M3AD](#41-m3ad)
+  - [4.2 PA3AD](#42-pa3ad)
+  - [4.3 PC3AD](#43-pc3ad)
+
+- [5. Others](#5-others)
+- [6. BibTex Citation](#6-bibtex-citation)
+- [Star History](#star-history)
+- [License](#license)
 
 ---
 
@@ -67,12 +77,13 @@ With the above foundation, feature reconstruction–based methods have been furt
 
 We further recommend the following works: **G²SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection** ([ICCV 2025](https://arxiv.org/html/2503.10091v1)); **Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation** ([ICCV 2025](https://arxiv.org/abs/2505.24431), [code](https://github.com/ZZZBBBZZZ/PASDF)); **3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking** ([arXiv](https://arxiv.org/pdf/2601.09294)); **C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor** ([arXiv 2025](https://arxiv.org/abs/2508.01311), [code](https://github.com/hzzzzzhappy/C3DAD)).
 
+## Conference Summary
 
-
-## A. AAAI2026
+### A. AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 2. Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
 3. CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/pdf/2511.12909) [[code]](https://github.com/zyh16143998882/CASL)
+   
 ## 1. Multimodal 3D Anomaly Detection
 
 ### 1.1 Depth(2.5D)+RGB
