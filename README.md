@@ -52,6 +52,23 @@ We warmly welcome any new work that we may have overlooked.
 
 ---
 
+## ⭐ Tutorial
+Hi! If you are new to **3D Anomaly Detection**, this is a concise reading list and practical guidance to help you quickly understand the field. In essence, existing 3D anomaly detection methods aim to **decouple feature representations of normal and abnormal structures**, such that normal and anomalous samples exhibit different responses after being processed by a model. Based on this idea, current approaches can be broadly divided into **feature embedding–based methods** and **feature reconstruction–based methods**. It is also worth noting that low-level representations, such as raw point coordinates in point clouds, can be regarded as primitive features.
+
+### 1. Feature Embedding–Based Methods
+We recommend starting with feature embedding–based methods, as early 3D anomaly detection approaches are largely adapted from classical 2D anomaly detection models such as **PatchCore** ([paper](https://arxiv.org/abs/2106.08265)). Representative baselines include **BTF**, **M3DM**, and **Reg3D-AD**. Beginners are strongly encouraged to reproduce the following benchmark to gain hands-on understanding: **Real3D-AD** ([GitHub](https://github.com/M-3LAB/Real3D-AD)).
+
+There are two major challenges in this paradigm. First, **insufficient feature discriminability**: 3D anomaly detection requires rotation-invariant features, or at least pose-consistent representations after transformations such as point cloud registration. This insight is well explained in **BTF** ([CVPRW 2023](https://openaccess.thecvf.com/content/CVPR2023W/VAND/papers/Horwitz_Back_to_the_Feature_Classical_3D_Features_Are_Almost_All_CVPRW_2023_paper.pdf)), and has motivated the use of **rotation-invariant deep features** ([arXiv](https://arxiv.org/abs/2510.16865)), which demonstrate strong robustness in anomaly detection. Second, **insufficient feature resolution**: many classical methods operate at the patch level. For example, **ISMP** ([arXiv](https://arxiv.org/abs/2412.13461)) and **Group3AD** ([ACM](https://dl.acm.org/doi/abs/10.1145/3664647.3680919)) assign features to only about 2% of the points. To alleviate this issue, point-level discriminative representations based on handcrafted geometric descriptors have been explored. Methods such as **CPMF** ([PR](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120)) and **Simple3AD** ([arXiv](https://arxiv.org/html/2507.07435v1)) leverage FPFH features or their variants to obtain efficient point-wise representations.
+
+After building this understanding, the following papers are recommended for further inspiration: **Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection** ([TASE](https://ieeexplore.ieee.org/document/10898004)); **Shape-Guided Dual-Memory Learning for 3D Anomaly Detection** ([ICML 2023](https://openreview.net/forum?id=IkSGn9fcPz)); **Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory** ([AAAI 2026](https://arxiv.org/abs/2511.05966)); **CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection** ([AAAI 2026](https://arxiv.org/pdf/2511.12909), [code](https://github.com/zyh16143998882/CASL)).
+
+### 2. Feature Reconstruction–Based Methods
+With the above foundation, feature reconstruction–based methods have been further introduced. Early explorations include **IMRNet** ([GitHub](https://github.com/Chopper-233/Anomaly-ShapeNet)) and **R3D-AD** ([arXiv](https://arxiv.org/abs/2407.10862)), which remove potential anomalous structures and detect anomalies by comparing point clouds before and after reconstruction. However, feature discrimination in low-dimensional latent spaces is often limited. To address this issue, **MC3D-AD** ([arXiv](https://arxiv.org/abs/2505.01969)) performs reconstruction in a high-dimensional feature space. Nevertheless, high-dimensional reconstruction still suffers from feature resolution limitations, motivating U-Net–style architectures such as **PO3AD** ([arXiv](https://arxiv.org/abs/2412.12617)) to produce high-dimensional point-wise features.
+
+We further recommend the following works: **G²SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection** ([ICCV 2025](https://arxiv.org/html/2503.10091v1)); **Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation** ([ICCV 2025](https://arxiv.org/abs/2505.24431), [code](https://github.com/ZZZBBBZZZ/PASDF)); **3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking** ([arXiv](https://arxiv.org/pdf/2601.09294)); **C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor** ([arXiv 2025](https://arxiv.org/abs/2508.01311), [code](https://github.com/hzzzzzhappy/C3DAD)).
+
+
+
 ## A. AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 2. Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
@@ -132,7 +149,6 @@ We warmly welcome any new work that we may have overlooked.
 3. **[2025]** CPIR: Multimodal Industrial Anomaly Detection via Latent Bridged Cross-modal Prediction and Intra-modal Reconstruction [[AEI]](https://www.sciencedirect.com/science/article/pii/S1474034625001338)
 4. **[2025]** HFMM-Net: A Hybrid Fusion Mamba Network for Efficient Multimodal Industrial Defect Detection [[Information]](https://www.mdpi.com/2078-2489/16/12/1018)
 5. **[2025]** MAESTRO: A Full Point Cloud Approach for 3D Anomaly Detection Based on Reconstruction [[VISAPP2025]](https://www.scitepress.org/Link.aspx?doi=10.5220/0013250500003912)
-6. **[2025]** HFMM-Net: A Hybrid Fusion Mamba Network for Efficient Multimodal Industrial Defect Detection [[information]](https://www.mdpi.com/2078-2489/16/12/1018)
 
 ### 1.3 Beyond Unimodal
 1. **[2025]** Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR2025]](https://arxiv.org/abs/2412.14592) [[code]](https://github.com/ZZZBBBZZZ/MulSen-AD/)
@@ -247,7 +263,7 @@ We warmly welcome any new work that we may have overlooked.
 
 ## 5. Others
 1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
-2. **[2026]** PointSGRADE: Sparse learning with graph representation for anomaly detection by using unstructured 3D point cloud data [[IISE Transactions ]](https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2285840)
+2. **[2026]** PointSGRADE: Sparse learning with graph representation for anomaly detection by using unstructured 3D point cloud data [[IISE Transactions]](https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2285840)
 ## 6. BibTex Citation
 
 If you find our paper and repository useful, please cite our paper☺️.
