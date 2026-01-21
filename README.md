@@ -6,7 +6,7 @@ We warmly welcome any new work that we may have overlooked.
 
 ⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
-[3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey) [**updated: v4 2026/1/8**]
+[3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey) [**updated: v4.4 2026/1/22**]
 
 ![Development of 3D Anomaly Detection](develop_of_3AD.png)
 
@@ -263,6 +263,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 2. **[2024]** Real-IAD: A Real-World Multi-View Dataset for Benchmarking Versatile Industrial Anomaly Detection [[code]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
 3. **[2025]** PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)
 4. **[2025]** Real-IAD Variety: Pushing Industrial Anomaly Detection Dataset to a Modern Era [[Arxiv]](https://arxiv.org/abs/2511.00540)
+5. **[2025]** Odd-One-Out: Anomaly Detection by Comparing with Neighbors [[CVPR 2025]](https://arxiv.org/abs/2406.20099) [[code]](https://github.com/VICO-UoE/OddOneOutAD)
 ### 4.3 PC3AD
 1. **[2023]** Real3D-AD: A Dataset of Point Cloud Anomaly Detection [[NeurIPS2023]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/611b896d447df43c898062358df4c114-Abstract-Datasets_and_Benchmarks.html) [[code]](https://github.com/m-3lab/real3d-ad)
 2. **[2024]** Anomaly-ShapeNet: A Synthetic Dataset of Point Cloud Anomaly Detection [[CVPR2024]](https://github.com/Chopper-233/Anomaly-ShapeNet) [[code]](https://github.com/Chopper-233/Anomaly-ShapeNet)
