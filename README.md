@@ -111,6 +111,8 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 6. **[2025]** BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection [[MM2025]](https://arxiv.org/pdf/2507.19253) [[code]](https://github.com/Xantastic/BridgeNet)
 7. **[2025]** DAS3D: Dual-modality Anomaly Synthesis for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2412.08949) [[code]](https://github.com/hito2448/TRD)
 8. **[2026]** Dynamic background-guided asymmetric knowledge distillation network for 3D defect detection [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526000824)
+9. **[2026]** DCRDF-Net: A Dual-Channel Reverse-Distillation Fusion Network for 3D Industrial Anomaly Detection [[Sensors]](https://www.mdpi.com/1424-8220/26/2/412)
+10. 
 
 ### 1.2 Point Cloud+RGB
 
