@@ -110,6 +110,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 5. **[2025]** AnomalyHybrid: A Domain-agnostic Generative Framework for General Anomaly Detection [[CVPR 2025 SyntaGen Workshop]](https://openaccess.thecvf.com/content/CVPR2025W/SyntaGen/papers/Zhao_AnomalyHybrid_A_Domain-agnostic_Generative_Framework_for_General_Anomaly_Detection_CVPRW_2025_paper.pdf)
 6. **[2025]** BridgeNet: A Unified Multimodal Framework for Bridging 2D and 3D Industrial Anomaly Detection [[MM2025]](https://arxiv.org/pdf/2507.19253) [[code]](https://github.com/Xantastic/BridgeNet)
 7. **[2025]** DAS3D: Dual-modality Anomaly Synthesis for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2412.08949) [[code]](https://github.com/hito2448/TRD)
+8. **[2026]** Dynamic background-guided asymmetric knowledge distillation network for 3D defect detection [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526000824)
 
 ### 1.2 Point Cloud+RGB
 
@@ -274,6 +275,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 5. **[2025]** Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[Arxiv]](https://arxiv.org/html/2507.07435v1) [[code]](https://github.com/hustCYQ/MiniShift-Simple3D)
 6. **[2025]** IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[Arxiv]](https://arxiv.org/pdf/2511.03267)
 7. **[2025]** Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2025]](https://arxiv.org/abs/2511.05853v1)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
+8. **[2026]** Auxiliary Information Flow for 3D Industrial Defect Detection on IC Ceramic Package Substrate Surfaces: Dataset and Benchmark [[TCSVT]](https://ieeexplore.ieee.org/abstract/document/11361169)[[code]](https://github.com/dcsrgh/CPS3D-Det)
 
 ## 5. Others
 1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
