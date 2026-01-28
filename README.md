@@ -112,7 +112,6 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 7. **[2025]** DAS3D: Dual-modality Anomaly Synthesis for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2412.08949) [[code]](https://github.com/hito2448/TRD)
 8. **[2026]** Dynamic background-guided asymmetric knowledge distillation network for 3D defect detection [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526000824)
 9. **[2026]** DCRDF-Net: A Dual-Channel Reverse-Distillation Fusion Network for 3D Industrial Anomaly Detection [[Sensors]](https://www.mdpi.com/1424-8220/26/2/412)
-10. 
 
 ### 1.2 Point Cloud+RGB
 
@@ -254,6 +253,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 2. **[2024]** SplatPose & Detect: Pose-Agnostic 3D Anomaly Detection [[CVPRW2024]](https://arxiv.org/abs/2404.06832) [[code]](https://github.com/m-kruse98/SplatPose)
 3. **[2024]** SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection [[ECCVW2024]](https://arxiv.org/pdf/2404.06832) [[code]](https://github.com/Yizhe-Liu/SplatPosePlus)
 4. **[2025]** PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)
+5. **[2026]** Pose-Agnostic Anomaly Detection with Retinex-based Illumination Alignment [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6055450)
 
 ## 4. Datasets
 
