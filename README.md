@@ -148,7 +148,8 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 5. **[2025]** 2D–3D Feature Fusion via Cross-Modal Latent Synthesis and Attention-Guided Restoration for Industrial Anomaly Detection [[DICTA2025]](https://arxiv.org/pdf/2510.21793) [[code]](https://github.com/adabrh/MAFR)
 6. **[2025]** Unsupervised 3D Anomaly Detection Method Using Fusion of Point Cloud and Image Features [[SAFEPROCESS]](https://ieeexplore.ieee.org/document/11267808)
 7. **[2025]** Multimodal Industrial Anomaly Detection via Geometric Prior [[TCSVT]](https://ieeexplore.ieee.org/document/11178073)
-8. **[2025]** HGCF: Hierarchical Geometry-Color Fusion for Multimodal Industrial Anomaly Detection[[ACM MM2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754891)
+8. **[2025]** HGCF: Hierarchical Geometry-Color Fusion for Multimodal Industrial Anomaly Detection [[ACM MM2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754891)
+9. **[2026]** Inter-modality feature prediction through multimodal fusion for 3D shape defect detection [[Neural Networks]](https://www.sciencedirect.com/science/article/pii/S0893608025009372)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
