@@ -211,6 +211,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 7. **[2025]** Towards High-Resolution 3D Anomaly Detection: A Scalable Dataset and Real-Time Framework for Subtle Industrial Defects [[Arxiv]](https://arxiv.org/abs/2507.07435) [[code]](https://github.com/hustCYQ/MiniShift-Simple3D/blob/main/README.md)
 8. **[2025]** 3D multimodal feature for infrastructure anomaly detection [[Automation in Construction2025]](https://arxiv.org/pdf/2502.05779) [[code]](https://github.com/Jingyixiong/3D-Multi-FPFHI)
 9. **[2025]** Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data [[Arxiv]](https://arxiv.org/abs/2502.03876)
+10. **[2026]** Curvature-Fused Feature Extractor for Accelerated Point Cloud Anomaly Detectio [[IEEE Access]](https://ieeexplore.ieee.org/abstract/document/11359654)
 
 #### 2.2.2 Deep Feature Extractors
 1. **[2022]** Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples [[Arxiv2022]](https://arxiv.org/abs/2210.17258)
