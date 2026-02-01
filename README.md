@@ -65,6 +65,9 @@ We warmly welcome any new work that we may have overlooked.
 ## ⭐ Tutorial
 Hi! If you are new to **3D Anomaly Detection**, this is a concise reading list and practical guidance to help you quickly understand the field. In essence, existing 3D anomaly detection methods aim to **decouple feature representations of normal and abnormal structures**, such that normal and anomalous samples exhibit different responses after being processed by a model. Based on this idea, current approaches can be broadly divided into **feature embedding–based methods** and **feature reconstruction–based methods**. It is also worth noting that low-level representations, such as raw point coordinates in point clouds, can be regarded as primitive features.
 
+<details>
+  <summary><b>OPEN ME</b></summary>
+
 ### 1. Feature Embedding–Based Methods
 We recommend starting with feature embedding–based methods, as early 3D anomaly detection approaches are largely adapted from classical 2D anomaly detection models such as **PatchCore** ([paper](https://arxiv.org/abs/2106.08265)). Representative baselines include **BTF**, **M3DM**, and **Reg3D-AD**. Beginners are strongly encouraged to reproduce the following benchmark to gain hands-on understanding: **Real3D-AD** ([GitHub](https://github.com/M-3LAB/Real3D-AD)).
 
@@ -76,6 +79,8 @@ After building this understanding, the following papers are recommended for furt
 With the above foundation, feature reconstruction–based methods have been further introduced. Early explorations include **IMRNet** ([GitHub](https://github.com/Chopper-233/Anomaly-ShapeNet)) and **R3D-AD** ([arXiv](https://arxiv.org/abs/2407.10862)), which remove potential anomalous structures and detect anomalies by comparing point clouds before and after reconstruction. However, feature discrimination in low-dimensional latent spaces is often limited. To address this issue, **MC3D-AD** ([arXiv](https://arxiv.org/abs/2505.01969)) performs reconstruction in a high-dimensional feature space. Nevertheless, high-dimensional reconstruction still suffers from feature resolution limitations, motivating U-Net–style architectures such as **PO3AD** ([arXiv](https://arxiv.org/abs/2412.12617)) to produce high-dimensional point-wise features.
 
 We further recommend the following works: **G²SF: Geometry-Guided Score Fusion for Multimodal Industrial Anomaly Detection** ([ICCV 2025](https://arxiv.org/html/2503.10091v1)); **Bridging 3D Anomaly Localization and Repair via High-Quality Continuous Geometric Representation** ([ICCV 2025](https://arxiv.org/abs/2505.24431), [code](https://github.com/ZZZBBBZZZ/PASDF)); **3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking** ([arXiv](https://arxiv.org/pdf/2601.09294)); **C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor** ([arXiv 2025](https://arxiv.org/abs/2508.01311), [code](https://github.com/hzzzzzhappy/C3DAD)).
+
+</details>
 
 ## Conference Summary
 
