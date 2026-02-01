@@ -172,6 +172,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 
 ### 1.3 Beyond Unimodal
 1. **[2025]** Multi-Sensor Object Anomaly Detection: Unifying Appearance, Geometry, and Internal Properties [[CVPR2025]](https://arxiv.org/abs/2412.14592) [[code]](https://github.com/ZZZBBBZZZ/MulSen-AD/)
+2. **[2026]** APG-Net: Adaptive Prototype Guidance Network for Multi-Sensor Industrial Anomaly Detection [[TCSVT]](https://ieeexplore.ieee.org/abstract/document/11328820)
 
 ## 2. PointCloud 3D Anomaly Detection
 
