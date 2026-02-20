@@ -289,6 +289,8 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 6. **[2025]** IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[Arxiv]](https://arxiv.org/pdf/2511.03267)
 7. **[2025]** Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2025]](https://arxiv.org/abs/2511.05853v1)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 8. **[2026]** Auxiliary Information Flow for 3D Industrial Defect Detection on IC Ceramic Package Substrate Surfaces: Dataset and Benchmark [[TCSVT]](https://ieeexplore.ieee.org/abstract/document/11361169)[[code]](https://github.com/dcsrgh/CPS3D-Det)
+### 4.4 Others
+1. **[2026]** 3DLAND: 3D Lesion Abdominal Anomaly Localization Dataset [[Arxiv]](https://arxiv.org/abs/2602.12820) [[code]](https://mehrn79.github.io/3DLAND/)
 
 ## 5. Others (Related but hard to be categorized)
 1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
