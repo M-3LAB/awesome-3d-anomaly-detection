@@ -187,6 +187,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 5. **[2025]** C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor [[Arxiv2025]](https://arxiv.org/abs/2508.01311) [[code]](https://github.com/hzzzzzhappy/C3DAD)
 6. **[2025]** Anomaly-Aware Siamese Comparative Transformer for 3D Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555382)
 7. **[2026]** MMF-M3AD: A Unified Reconstruction Method with Multi-scale Feature Fusion for Multi-category 3D Anomaly Detection [[code]](https://github.com/hzzzzzhappy/MMF-M3AD)
+8. **[2026]** A 3D anomaly detection method based on multiscale point features for defects in vehicle stamped parts [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526001301)
 
 #### 2.1.2 Offset-based Method
 1. **[2024]** R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV2024]](https://arxiv.org/abs/2407.10862) [[code]](https://zhouzheyuan.github.io/r3d-ad)
