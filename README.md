@@ -253,7 +253,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 8. **[2025]** MCL-AD: Multimodal Collaboration Learning for Zero-Shot 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2509.10282)
 9. **[2025]** MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples [[Arxiv]](https://arxiv.org/abs/2511.10047) [[code]](https://github.com/HUST-SLOW/MuSc-V2)
 10. **[2025]** On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2512.02520)
-11. **[2026]** GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[Arxiv]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
+11. **[2026]** GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
  
 ## 3. Pose-agnostic 3D Anomaly Detection
 
