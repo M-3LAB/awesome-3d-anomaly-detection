@@ -207,6 +207,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 9. **[2025]** CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/pdf/2511.12909) [[code]](https://github.com/zyh16143998882/CASL)
 10. **[2026]** 3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking [[Arxiv]](https://arxiv.org/pdf/2601.09294)
 11. **[2026]** Vote3D-AD: Unsupervised point cloud anomaly localization via varied defect synthesis and differentiable vote-clustering [[Alexandria Engineering Journal]](https://www.sciencedirect.com/science/article/pii/S1110016826000438)
+12. **[2026]** EG3AD: An Efficient Geometry-Aware Encoding Framework for Reconstruction-Based Multi-Class Point Cloud Anomaly Detection [[Arxiv]](https://openreview.net/forum?id=Ao5WM4ZYFo)
 
 ### 2.2 Feature-embedding Method
 
