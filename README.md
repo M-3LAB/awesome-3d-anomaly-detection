@@ -1,4 +1,4 @@
-<img width="749" height="898" alt="image" src="https://github.com/user-attachments/assets/a4ec0e6d-c479-4558-9fad-b21cd27484e2" /># Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 We discuss public datasets and related studies in detail. Welcome to read our paper and make comments. 
 
