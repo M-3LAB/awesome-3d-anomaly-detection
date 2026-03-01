@@ -235,6 +235,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 9. **[2025]** A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features  [[Arxiv]](https://arxiv.org/abs/2511.13115) [[code]](https://github.com/hzzzzzhappy/RIF/blob/main/README.md)
 10. **[2025]** Unsupervised Feature Metric-Based Multimodal Anomaly Detection Method [[CAIBDA]](https://ieeexplore.ieee.org/document/11183147)
 11. **[2026]** Efficient Industrial Point Cloud Anomaly Detection via Spatial Context Aggregation and Selective Anomalous Feature Generation [[Scientific Reports]](https://www.nature.com/articles/s41598-026-41255-2)
+12. **[2026]** Boosting high-resolution 3D point cloud anomaly detection with geometric constraints [[ICMV]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14114/3096417/Boosting-high-resolution-3D-point-cloud-anomaly-detection-with-geometric/10.1117/12.3096417.short)
 
 #### 2.2.3 Multi-view Feature Representation
 1. **[2024]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [[code]](https://github.com/caoyunkang/CPMF)
