@@ -117,6 +117,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 7. **[2025]** DAS3D: Dual-modality Anomaly Synthesis for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2412.08949) [[code]](https://github.com/hito2448/TRD)
 8. **[2026]** Dynamic background-guided asymmetric knowledge distillation network for 3D defect detection [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526000824)
 9. **[2026]** DCRDF-Net: A Dual-Channel Reverse-Distillation Fusion Network for 3D Industrial Anomaly Detection [[Sensors]](https://www.mdpi.com/1424-8220/26/2/412)
+10. **[2026]** Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[CVPR 2026]](https://arxiv.org/abs/2603.02629) [[code]](https://github.com/longkaifang/IB-IUMAD)
 
 ### 1.2 Point Cloud+RGB
 
@@ -156,6 +157,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 8. **[2025]** HGCF: Hierarchical Geometry-Color Fusion for Multimodal Industrial Anomaly Detection [[ACM MM2025]](https://dl.acm.org/doi/abs/10.1145/3746027.3754891)
 9. **[2026]** Inter-modality feature prediction through multimodal fusion for 3D shape defect detection [[Neural Networks]](https://www.sciencedirect.com/science/article/pii/S0893608025009372)
 10. **[2026]** A 3D anomaly detection method based on multiscale point features for defects in vehicle stamped parts [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526001301#fig4)
+11. **[2026]** Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2603.03939) [[code]](https://github.com/ECGAI-Research/CMDR-IAD/)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
