@@ -1,12 +1,12 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [**updated: v4.4 2026/3/7**]. Welcome to read our paper and make comments. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/3/7*]. Welcome to read our paper and make comments. 
 
 We warmly welcome any new work that we may have overlooked. 
 
 ⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
-[3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey) [**updated: v4.4 2026/1/22**]
+[3D Anomaly Detection: A Survey](https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey) [*updated: v4.4 2026/1/22*]
 
 ![Development of 3D Anomaly Detection](develop_of_3AD.png)
 
