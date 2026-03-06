@@ -84,7 +84,11 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 
 ## Conference Summary
 
-### A. AAAI2026
+### CVPR2026
+1. Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[CVPR 2026]](https://arxiv.org/abs/2603.02629) [[code]](https://github.com/longkaifang/IB-IUMAD)
+2. GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR 2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
+
+### AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 2. Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
 3. CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection [[AAAI 2026]](https://arxiv.org/pdf/2511.12909) [[code]](https://github.com/zyh16143998882/CASL)
