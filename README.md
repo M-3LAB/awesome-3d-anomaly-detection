@@ -278,6 +278,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 3. **[2024]** SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection [[ECCVW2024]](https://arxiv.org/pdf/2404.06832) [[code]](https://github.com/Yizhe-Liu/SplatPosePlus)
 4. **[2025]** PIAD: Pose and Illumination agnostic Anomaly Detection [[CVPR2025]](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_PIAD_Pose_and_Illumination_agnostic_Anomaly_Detection_CVPR_2025_paper.pdf) [[code]](https://github.com/Kaichen-Yang/piad_baseline)
 5. **[2026]** Pose-Agnostic Anomaly Detection with Retinex-based Illumination Alignment [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6055450)
+6. **[2026]** 3D Gaussian Reference Parts for Robust Free-Viewpoint Visual Inspection [[IEEE Access]](https://ieeexplore.ieee.org/abstract/document/11424398/)
 
 ## 4. Datasets
 
