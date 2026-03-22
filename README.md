@@ -164,6 +164,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 9. **[2026]** Inter-modality feature prediction through multimodal fusion for 3D shape defect detection [[Neural Networks]](https://www.sciencedirect.com/science/article/pii/S0893608025009372)
 10. **[2026]** A 3D anomaly detection method based on multiscale point features for defects in vehicle stamped parts [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526001301#fig4)
 11. **[2026]** Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2603.03939) [[code]](https://github.com/ECGAI-Research/CMDR-IAD/)
+12. **[2026]** Latent Space Recovery and Disentangled Fusion for Incomplete Multimodal Industrial Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6379324)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
