@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/3/25*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/3/28*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -90,6 +90,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 1. Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[CVPR 2026]](https://arxiv.org/abs/2603.02629) [[code]](https://github.com/longkaifang/IB-IUMAD)
 2. GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR 2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
 3. Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511) [[code]](https://github.com/wistful-8029/BTP-3DAD)
+4. A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
 
 ### AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
@@ -198,6 +199,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 6. **[2025]** Anomaly-Aware Siamese Comparative Transformer for 3D Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555382)
 7. **[2026]** MMF-M3AD: A Unified Reconstruction Method with Multi-scale Feature Fusion for Multi-category 3D Anomaly Detection [[code]](https://github.com/hzzzzzhappy/MMF-M3AD)
 8. **[2026]** A 3D anomaly detection method based on multiscale point features for defects in vehicle stamped parts [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526001301)
+9. **[2026]** A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
 
 #### 2.1.2 Offset-based Method
 1. **[2024]** R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV2024]](https://arxiv.org/abs/2407.10862) [[code]](https://zhouzheyuan.github.io/r3d-ad)
