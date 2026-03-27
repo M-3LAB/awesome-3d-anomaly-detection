@@ -8,7 +8,7 @@ We warmly welcome any new work that we may have overlooked.
 
 ⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
-[3D Anomaly Detection: A Survey]([https://www.researchgate.net/publication/398334588_3D_Anomaly_Detection_A_Survey](https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey.pdf)) [*updated: v4.4 2026/3/25*]
+[3D Anomaly Detection: A Survey](https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey.pdf) [*updated: v4.4 2026/3/25*]
 
 ![Development of 3D Anomaly Detection](develop_of_3AD.png)
 
