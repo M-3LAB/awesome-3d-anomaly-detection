@@ -234,6 +234,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 8. **[2025]** 3D multimodal feature for infrastructure anomaly detection [[Automation in Construction2025]](https://arxiv.org/pdf/2502.05779) [[code]](https://github.com/Jingyixiong/3D-Multi-FPFHI)
 9. **[2025]** Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data [[Arxiv]](https://arxiv.org/abs/2502.03876)
 10. **[2026]** Curvature-Fused Feature Extractor for Accelerated Point Cloud Anomaly Detectio [[IEEE Access]](https://ieeexplore.ieee.org/abstract/document/11359654)
+11. **[2026]** Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects [[Arxiv]](https://arxiv.org/abs/2604.01171)
 
 #### 2.2.2 Deep Feature Extractors
 1. **[2022]** Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples [[Arxiv2022]](https://arxiv.org/abs/2210.17258)
@@ -309,6 +310,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 6. **[2025]** IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection [[Arxiv]](https://arxiv.org/pdf/2511.03267)
 7. **[2025]** Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2025]](https://arxiv.org/abs/2511.05853v1)[[code]](https://github.com/Bingyang0410/CPS3D-Seg)
 8. **[2026]** Auxiliary Information Flow for 3D Industrial Defect Detection on IC Ceramic Package Substrate Surfaces: Dataset and Benchmark [[TCSVT]](https://ieeexplore.ieee.org/abstract/document/11361169)[[code]](https://github.com/dcsrgh/CPS3D-Det)
+9. **[2026]** Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects [[Arxiv]](https://arxiv.org/abs/2604.01171)
 ### 4.4 Others
 1. **[2026]** 3DLAND: 3D Lesion Abdominal Anomaly Localization Dataset [[Arxiv]](https://arxiv.org/abs/2602.12820) [[code]](https://mehrn79.github.io/3DLAND/)
 
