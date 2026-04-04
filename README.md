@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/4/2*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/4/5*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -91,6 +91,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 2. GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR 2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
 3. Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511) [[code]](https://github.com/wistful-8029/BTP-3DAD)
 4. A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
+5. Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection [[CVPR 2026 Finding]](https://arxiv.org/search/?query=3D+anomaly+detection&searchtype=all&source=header) [[code]](https://alex-costanzino.github.io/modmap/)
 
 ### AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
@@ -167,6 +168,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 10. **[2026]** A 3D anomaly detection method based on multiscale point features for defects in vehicle stamped parts [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526001301#fig4)
 11. **[2026]** Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2603.03939) [[code]](https://github.com/ECGAI-Research/CMDR-IAD/)
 12. **[2026]** Latent Space Recovery and Disentangled Fusion for Incomplete Multimodal Industrial Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6379324)
+13. **[2026]** Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection [[CVPR 2026 Finding]](https://arxiv.org/search/?query=3D+anomaly+detection&searchtype=all&source=header) [[code]](https://alex-costanzino.github.io/modmap/)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
