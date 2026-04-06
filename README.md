@@ -18,8 +18,8 @@ We warmly welcome any new work that we may have overlooked.
 
 - [⭐ Tutorial](#-tutorial)
 - [Conference Summary](#conference-summary)
-  - [A. AAAI2026](#a-aaai2026)
-
+  - [CVPR2026](#a-aaai2026)
+  - [AAAI2026](#a-aaai2026)
 - [1. Multimodal 3D Anomaly Detection](#1-multimodal-3d-anomaly-detection)
   - [1.1 Depth (2.5D) + RGB](#11-depth25drgb)
     - [1.1.1 Feature-embedding Method](#111-feature-embedding-method)
