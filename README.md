@@ -247,7 +247,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 6. **[2025]** Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection [[TASE]](https://ieeexplore.ieee.org/document/10898004) [[code]](https://github.com/hustCYQ/GLFM-Multi-class-3DAD/blob/main/README.md)
 7. **[2025]** Registration is a Powerful Rotation-Invariance Learner for 3D Anomaly Detection [[NIPS2025]](https://arxiv.org/abs/2510.16865) [[code]](https://github.com/CHen-ZH-W/Reg2Inv)
 8. **[2025]** Robust Distribution Alignment for Industrial Anomaly Detection under Distribution Shift [[Arxiv]](https://arxiv.org/abs/2503.14910)
-9. **[2025]** A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features  [[Arxiv]](https://arxiv.org/abs/2511.13115) [[code]](https://github.com/hzzzzzhappy/RIF/blob/main/README.md)
+9. **[2025]** A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features  [[PR 2026]](https://arxiv.org/abs/2511.13115) [[code]](https://github.com/hzzzzzhappy/RIF/blob/main/README.md)
 10. **[2025]** Unsupervised Feature Metric-Based Multimodal Anomaly Detection Method [[CAIBDA]](https://ieeexplore.ieee.org/document/11183147)
 11. **[2026]** Efficient Industrial Point Cloud Anomaly Detection via Spatial Context Aggregation and Selective Anomalous Feature Generation [[Scientific Reports]](https://www.nature.com/articles/s41598-026-41255-2)
 12. **[2026]** Boosting high-resolution 3D point cloud anomaly detection with geometric constraints [[ICMV]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14114/3096417/Boosting-high-resolution-3D-point-cloud-anomaly-detection-with-geometric/10.1117/12.3096417.short)
