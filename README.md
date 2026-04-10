@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/4/5*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/4/10*]. 
 
 Welcome to read our paper and make comments. 
 
