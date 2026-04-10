@@ -92,6 +92,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 3. Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511) [[code]](https://github.com/wistful-8029/BTP-3DAD)
 4. A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
 5. Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection [[CVPR 2026 Finding]](https://arxiv.org/search/?query=3D+anomaly+detection&searchtype=all&source=header) [[code]](https://alex-costanzino.github.io/modmap/)
+6. Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2604.03972) [[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
 
 ### AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
@@ -222,6 +223,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 10. **[2026]** 3D-SONAR: Self-Organizing Network for 3D Anomaly Ranking [[Arxiv]](https://arxiv.org/pdf/2601.09294)
 11. **[2026]** Vote3D-AD: Unsupervised point cloud anomaly localization via varied defect synthesis and differentiable vote-clustering [[Alexandria Engineering Journal]](https://www.sciencedirect.com/science/article/pii/S1110016826000438)
 12. **[2026]** EG3AD: An Efficient Geometry-Aware Encoding Framework for Reconstruction-Based Multi-Class Point Cloud Anomaly Detection [[Arxiv]](https://openreview.net/forum?id=Ao5WM4ZYFo)
+13. **[2026]** Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2604.03972) [[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
 
 ### 2.2 Feature-embedding Method
 
@@ -273,7 +275,10 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 10. **[2025]** On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2512.02520)
 11. **[2026]** GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
 12. **[2026]** Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511) [[code]](https://github.com/wistful-8029/BTP-3DAD)
- 
+
+## Anomalies Synthetic
+1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
+
 ## 3. Pose-agnostic 3D Anomaly Detection
 
 ### 3.1 Multi-view
@@ -315,6 +320,9 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 9. **[2026]** Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects [[Arxiv]](https://arxiv.org/abs/2604.01171) [[code]](https://github.com/hzzzzzhappy/open-industry/tree/main)
 ### 4.4 Others
 1. **[2026]** 3DLAND: 3D Lesion Abdominal Anomaly Localization Dataset [[Arxiv]](https://arxiv.org/abs/2602.12820) [[code]](https://mehrn79.github.io/3DLAND/)
+
+
+
 
 ## 5. Others (Related but hard to be categorized)
 1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
