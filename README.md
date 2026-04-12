@@ -128,6 +128,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 8. **[2026]** Dynamic background-guided asymmetric knowledge distillation network for 3D defect detection [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526000824)
 9. **[2026]** DCRDF-Net: A Dual-Channel Reverse-Distillation Fusion Network for 3D Industrial Anomaly Detection [[Sensors]](https://www.mdpi.com/1424-8220/26/2/412)
 10. **[2026]** Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[CVPR 2026]](https://arxiv.org/abs/2603.02629) [[code]](https://github.com/longkaifang/IB-IUMAD)
+11. **[2026]** SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.05632)
 
 ### 1.2 Point Cloud+RGB
 
