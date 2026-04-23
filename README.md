@@ -276,6 +276,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 10. **[2025]** On the Problem of Consistent Anomalies in Zero-Shot Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2512.02520)
 11. **[2026]** GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
 12. **[2026]** Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511) [[code]](https://github.com/wistful-8029/BTP-3DAD)
+13. **[2026]** ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.17949)
 
 ## Anomalies Synthetic
 1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
