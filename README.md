@@ -18,6 +18,7 @@ We warmly welcome any new work that we may have overlooked.
 
 - [⭐ Tutorial](#-tutorial)
 - [Conference Summary](#conference-summary)
+  - [ICASSP2026](#a-aaai2026)
   - [CVPR2026](#a-aaai2026)
   - [AAAI2026](#a-aaai2026)
 - [1. Multimodal 3D Anomaly Detection](#1-multimodal-3d-anomaly-detection)
