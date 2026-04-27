@@ -86,6 +86,10 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 
 ## Conference Summary
 
+### ICASSP2026
+1. Boosting Anomaly Detection in Industrial 3D Data: An Entropy-Guided Denoising Autoencoder [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11460596)
+2. 3D-Aware Semantic Alignment: Joint Global and Local Modeling for 3D Few-shot [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11462177)
+3. Efficient3D-AD: Token-Efficient and View-Aware Zero-shot 3D Multimodal Anomaly Detection [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11465143)
 ### CVPR2026
 1. Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[CVPR 2026]](https://arxiv.org/abs/2603.02629) [[code]](https://github.com/longkaifang/IB-IUMAD)
 2. GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR 2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
@@ -204,6 +208,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 7. **[2026]** MMF-M3AD: A Unified Reconstruction Method with Multi-scale Feature Fusion for Multi-category 3D Anomaly Detection [[code]](https://github.com/hzzzzzhappy/MMF-M3AD)
 8. **[2026]** A 3D anomaly detection method based on multiscale point features for defects in vehicle stamped parts [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526001301)
 9. **[2026]** A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
+10. **[2026]** Efficient3D-AD: Token-Efficient and View-Aware Zero-shot 3D Multimodal Anomaly Detection [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11465143)
 
 #### 2.1.2 Offset-based Method
 1. **[2024]** R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV2024]](https://arxiv.org/abs/2407.10862) [[code]](https://zhouzheyuan.github.io/r3d-ad)
