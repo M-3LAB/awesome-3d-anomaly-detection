@@ -21,6 +21,7 @@ We warmly welcome any new work that we may have overlooked.
   - [ICASSP2026](#a-aaai2026)
   - [CVPR2026](#a-aaai2026)
   - [AAAI2026](#a-aaai2026)
+  - [ICML2026](#a-ICML2026)
 - [1. Multimodal 3D Anomaly Detection](#1-multimodal-3d-anomaly-detection)
   - [1.1 Depth (2.5D) + RGB](#11-depth25drgb)
     - [1.1.1 Feature-embedding Method](#111-feature-embedding-method)
@@ -87,10 +88,15 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 
 ## Conference Summary
 
+### ICML2026
+1. Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacers [[ICML 2026]](https://icml.cc/virtual/2026/poster/62880)
+2. CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [[ICML 2026]](https://icml.cc/virtual/2026/poster/62489)
+   
 ### ICASSP2026
 1. Boosting Anomaly Detection in Industrial 3D Data: An Entropy-Guided Denoising Autoencoder [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11460596)
 2. 3D-Aware Semantic Alignment: Joint Global and Local Modeling for 3D Few-shot [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11462177)
 3. Efficient3D-AD: Token-Efficient and View-Aware Zero-shot 3D Multimodal Anomaly Detection [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11465143)
+   
 ### CVPR2026
 1. Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[CVPR 2026]](https://arxiv.org/abs/2603.02629) [[code]](https://github.com/longkaifang/IB-IUMAD)
 2. GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR 2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
@@ -176,6 +182,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 11. **[2026]** Cross-Modal Mapping and Dual-Branch Reconstruction for 2D-3D Multimodal Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2603.03939) [[code]](https://github.com/ECGAI-Research/CMDR-IAD/)
 12. **[2026]** Latent Space Recovery and Disentangled Fusion for Incomplete Multimodal Industrial Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6379324)
 13. **[2026]** Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection [[CVPR 2026 Finding]](https://arxiv.org/search/?query=3D+anomaly+detection&searchtype=all&source=header) [[code]](https://alex-costanzino.github.io/modmap/)
+14. **[2026]** Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacers [[ICML 2026]](https://icml.cc/virtual/2026/poster/62880)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
@@ -283,7 +290,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 11. **[2026]** GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning [[CVPR2026]](https://arxiv.org/abs/2602.19206) [[code]](https://github.com/zhushengxinyue/GS-CLIP)
 12. **[2026]** Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511) [[code]](https://github.com/wistful-8029/BTP-3DAD)
 13. **[2026]** ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.17949)
-
+14. **[2026]** CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [[ICML 2026]](https://icml.cc/virtual/2026/poster/62489)
 ## Anomalies Synthetic
 1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
 
