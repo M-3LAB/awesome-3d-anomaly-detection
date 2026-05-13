@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/5/10*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/5/13*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -104,6 +104,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 4. A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
 5. Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection [[CVPR 2026 Finding]](https://arxiv.org/search/?query=3D+anomaly+detection&searchtype=all&source=header) [[code]](https://alex-costanzino.github.io/modmap/)
 6. Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2604.03972) [[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
+7. Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models [[CVPR 2026 Workshop on Efficient Deep Learning for Computer Vision (ECV)]](https://arxiv.org/abs/2605.05372)
 
 ### AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
@@ -223,6 +224,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 2. **[2025]** PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection [[CVPR2025]](https://arxiv.org/abs/2412.12617) [[code]](https://github.com/yjnanan/PO3AD)
 3. **[2025]** Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2505.05901) [[code]](https://github.com/hzzzzzhappy/MC4AD)
 4. **[2025]** UCA-3DAL: A Unified Contrastive Framework with Test-Time Adaptation for Robust 3D Anomaly Localization [[Arxiv]](https://www.researchgate.net/publication/398446535_A_Unified_Contrastive_Framework_with_Test-Time_Adaptation_for_Robust_3D_Anomaly_Localization) [[code]](https://github.com/M-3LAB/UCA-3DL)
+5. **[2026]** Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models [[CVPR 2026 Workshop on Efficient Deep Learning for Computer Vision (ECV)]](https://arxiv.org/abs/2605.05372)
 
 #### 2.1.3 Shape descriptor Method
 1. **[2023]** Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML2023]](https://openreview.net/pdf?id=IkSGn9fcPz) [[code]](https://github.com/jayliu0313/Shape-Guided)
@@ -291,6 +293,9 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 12. **[2026]** Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.21511) [[code]](https://github.com/wistful-8029/BTP-3DAD)
 13. **[2026]** ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.17949)
 14. **[2026]** CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [[ICML 2026]](https://icml.cc/virtual/2026/poster/62489)
+15. **[2026]** Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2605.05850)
+
+
 ## Anomalies Synthetic
 1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
 
