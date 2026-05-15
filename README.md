@@ -214,7 +214,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 4. **[2025]** MC3D-AD: A Unified Geometry-aware Reconstruction Model for Multi-category 3D Anomaly Detection [[IJCAI2025]](https://arxiv.org/abs/2505.01969) [[code]](https://github.com/iCAN-SZU/MC3D-AD)
 5. **[2025]** C3D-AD: Toward Continual 3D Anomaly Detection via Kernel Attention with Learnable Advisor [[Arxiv2025]](https://arxiv.org/abs/2508.01311) [[code]](https://github.com/hzzzzzhappy/C3DAD)
 6. **[2025]** Anomaly-Aware Siamese Comparative Transformer for 3D Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5555382)
-7. **[2026]** MMF-M3AD: A Unified Reconstruction Method with Multi-scale Feature Fusion for Multi-category 3D Anomaly Detection [[code]](https://github.com/hzzzzzhappy/MMF-M3AD)
+7. **[2026]** MMF-M3AD: A Unified Reconstruction Method with Multi-scale Feature Fusion for Multi-category 3D Anomaly Detection [[NN]]() [[code]](https://github.com/hzzzzzhappy/MMF-M3AD)
 8. **[2026]** A 3D anomaly detection method based on multiscale point features for defects in vehicle stamped parts [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526001301)
 9. **[2026]** A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
 10. **[2026]** Efficient3D-AD: Token-Efficient and View-Aware Zero-shot 3D Multimodal Anomaly Detection [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11465143)
