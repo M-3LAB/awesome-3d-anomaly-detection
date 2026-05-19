@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/5/13*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/5/19*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -105,6 +105,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 5. Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection [[CVPR 2026 Finding]](https://arxiv.org/search/?query=3D+anomaly+detection&searchtype=all&source=header) [[code]](https://alex-costanzino.github.io/modmap/)
 6. Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2604.03972) [[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
 7. Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models [[CVPR 2026 Workshop on Efficient Deep Learning for Computer Vision (ECV)]](https://arxiv.org/abs/2605.05372)
+8. Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
 
 ### AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
@@ -304,6 +305,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 ### 3.1 Multi-view
 1. **[2025]** SiM3D: Single-instance Multiview Multimodal and Multisetup 3D Anomaly Detection Benchmark [[ICCV2025]](https://arxiv.org/abs/2506.21549) [[code]](https://arxiv.org/abs/2506.21549)
 2. **[2025]** Real-IAD D3: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection [[Arxiv]](https://realiad4ad.github.io/Real-IAD/) [[code]](https://github.com/Tencent/AnomalyDetection_Real-IAD)
+3. **[2026]** Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
 
 ### 3.2 Image-query
 1. **[2023]** PAD: A Dataset and Benchmark for Pose-agnostic Anomaly Detection [[NeurIPS2023]](https://papers.nips.cc/paper/2023/file/8bc5aef775aacc1650a9790f1428bcea-Paper-Datasets_and_Benchmarks.pdf#:~:text=We%20introduced%20Pose-agnostic%20Anomaly%20Detection%20%28PAD%29%2C%20a%20challenging,forward%20to%20pratical%20anomaly%20detection%20and%20localization%20tasks.) [[code]](https://github.com/EricLee0224/PAD)
@@ -339,6 +341,8 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 8. **[2026]** Auxiliary Information Flow for 3D Industrial Defect Detection on IC Ceramic Package Substrate Surfaces: Dataset and Benchmark [[TCSVT]](https://ieeexplore.ieee.org/abstract/document/11361169)[[code]](https://github.com/dcsrgh/CPS3D-Det)
 9. **[2026]** Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects [[Arxiv]](https://arxiv.org/abs/2604.01171) [[code]](https://github.com/hzzzzzhappy/open-industry/tree/main)
 10. **[2026]** Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.26868)
+11. **[2026]** Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
+
 ### 4.4 Others
 1. **[2026]** 3DLAND: 3D Lesion Abdominal Anomaly Localization Dataset [[Arxiv]](https://arxiv.org/abs/2602.12820) [[code]](https://mehrn79.github.io/3DLAND/)
 
