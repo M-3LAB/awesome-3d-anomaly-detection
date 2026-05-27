@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/5/19*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/5/27*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -219,6 +219,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 8. **[2026]** A 3D anomaly detection method based on multiscale point features for defects in vehicle stamped parts [[Journal of Manufacturing Processes]](https://www.sciencedirect.com/science/article/pii/S1526612526001301)
 9. **[2026]** A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
 10. **[2026]** Efficient3D-AD: Token-Efficient and View-Aware Zero-shot 3D Multimodal Anomaly Detection [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11465143)
+11. **[2026]** From comparison to discrimination: A One-step framework for 3D anomaly detection and localization [[Image and Vision Computing]](https://www.sciencedirect.com/science/article/pii/S0262885626001393)
 
 #### 2.1.2 Offset-based Method
 1. **[2024]** R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV2024]](https://arxiv.org/abs/2407.10862) [[code]](https://zhouzheyuan.github.io/r3d-ad)
