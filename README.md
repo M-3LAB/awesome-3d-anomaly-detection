@@ -107,6 +107,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 7. Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models [[CVPR 2026 Workshop on Efficient Deep Learning for Computer Vision (ECV)]](https://arxiv.org/abs/2605.05372)
 8. Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
 9. Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/36699)
+10. Co-Adaptive Graph Learning Through Coupled Spectral Refinement for 3D Anomaly Detection [[CVPR 2026 Finding]](https://openaccess.thecvf.com/content/CVPR2026F/html/Mukkamala_Co-Adaptive_Graph_Learning_Through_Coupled_Spectral_Refinement_for_3D_Anomaly_CVPRF_2026_paper.html)
 
 ### AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
