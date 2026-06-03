@@ -108,6 +108,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 8. Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
 9. Geometry-Aligned and Anomaly-Aware Reconstruction for 3D Anomaly Detection [[CVPR 2026]](https://cvpr.thecvf.com/virtual/2026/poster/36699)
 10. Co-Adaptive Graph Learning Through Coupled Spectral Refinement for 3D Anomaly Detection [[CVPR 2026 Finding]](https://openaccess.thecvf.com/content/CVPR2026F/html/Mukkamala_Co-Adaptive_Graph_Learning_Through_Coupled_Spectral_Refinement_for_3D_Anomaly_CVPRF_2026_paper.html)
+11. PTAD: Pose and Texture Agnostic Anomaly Detection [[CVPR2026 Finding]](https://openaccess.thecvf.com/content/CVPR2026F/html/Zhuo_PTAD_Pose_and_Texture_Agnostic_Anomaly_Detection_CVPRF_2026_paper.html)
 
 ### AAAI2026
 1. Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology [[AAAI 2026]](https://arxiv.org/abs/2511.05853v1) [[code]](https://github.com/Bingyang0410/CPS3D-Seg)
@@ -318,6 +319,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 5. **[2026]** Pose-Agnostic Anomaly Detection with Retinex-based Illumination Alignment [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6055450)
 6. **[2026]** 3D Gaussian Reference Parts for Robust Free-Viewpoint Visual Inspection [[IEEE Access]](https://ieeexplore.ieee.org/abstract/document/11424398/)
 7. **[2026]** Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis [[Arxiv]](https://arxiv.org/abs/2603.22786) [[code]](https://chumsy0725.github.io/GS-U/)
+8. **[2026]** PTAD: Pose and Texture Agnostic Anomaly Detection [[CVPR2026 Finding]](https://openaccess.thecvf.com/content/CVPR2026F/html/Zhuo_PTAD_Pose_and_Texture_Agnostic_Anomaly_Detection_CVPRF_2026_paper.html)
 
 ## 4. Datasets
 
