@@ -366,7 +366,7 @@ If you find our paper and repository useful, please cite our paper☺️.
 ```
 @article{liang20253dadsurvey,
   title={3D Anomaly Detection: A Survey},
-  author={Liang, Hanzhe and Guo, Bingyang and Huang, Yawen and Lyu, Jiayi and Gao, Can and Cao, Yunkang and Wang, Jinbao and Yu, Ruiyun and Shen, Linlin and Li, Pan},
+  author={Liang, Hanzhe and Guo, Bingyang and Shen, Weiming and Lyu, Jiayi and Gao, Can and Xie Guoyang  and Cao, Yunkang and Wang, Jinbao and Yu, Ruiyun and Shen, Linlin and Li, Pan},
   journal={arXiv preprint},
   doi={10.13140/RG.2.2.21218.39361},
   year={2025}
