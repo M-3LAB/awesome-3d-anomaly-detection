@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/5/31*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/6/5*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -170,6 +170,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 8. **[2025]** Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory [[AAAI 2026]](https://arxiv.org/abs/2511.05966) [[code]](https://github.com/Sunny5250/CIF)
 9. **[2025]** Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network [[TMM]](https://ieeexplore.ieee.org/document/11248961)
 10. **[2026]** IAENet: An importance-aware ensemble model for 3D point cloud-based anomaly detection [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253525011595)
+11. **[2026]** Cross-Modal Disagreement-Guided Reliability-Aware Scoring for RGB-3D Industrial Anomaly Detection [[Applied Sciences]](https://www.mdpi.com/2076-3417/16/11/5483)
 
 #### 1.2.2 Feature-reconstruction Method
 
