@@ -305,6 +305,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 13. **[2026]** ZSG-IAD: A Multimodal Framework for Zero-Shot Grounded Industrial Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.17949)
 14. **[2026]** CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [[ICML 2026]](https://icml.cc/virtual/2026/poster/62489)
 15. **[2026]** Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2605.05850)
+16. **[2026]** Where & What Anomaly? A Framework for Pose-Agnostic Anomaly Detection and Zero-Shot Semantic Classification [[ICMR 2026]](https://dl.acm.org/doi/full/10.1145/3805622.3810880)
 
 
 ## Anomalies Synthetic
@@ -327,6 +328,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 7. **[2026]** Predictive Photometric Uncertainty in Gaussian Splatting for Novel View Synthesis [[Arxiv]](https://arxiv.org/abs/2603.22786) [[code]](https://chumsy0725.github.io/GS-U/)
 8. **[2026]** PTAD: Pose and Texture Agnostic Anomaly Detection [[CVPR2026 Finding]](https://openaccess.thecvf.com/content/CVPR2026F/html/Zhuo_PTAD_Pose_and_Texture_Agnostic_Anomaly_Detection_CVPRF_2026_paper.html)
 9. **[2026]** Wavelet-Driven 3D Anomaly Detection under Pose-Agnostic and Sparse-View [[CVPR 2026]](https://openaccess.thecvf.com/content/CVPR2026/html/Shao_Wavelet-Driven_3D_Anomaly_Detection_under_Pose-Agnostic_and_Sparse-View_CVPR_2026_paper.html)
+10. **[2026]** Where & What Anomaly? A Framework for Pose-Agnostic Anomaly Detection and Zero-Shot Semantic Classification [[ICMR 2026]](https://dl.acm.org/doi/full/10.1145/3805622.3810880)
 
 ## 4. Datasets
 
