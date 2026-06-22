@@ -87,7 +87,9 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 </details>
 
 ## Conference Summary
-
+### ECCV2026
+1. CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)
+   
 ### ICML2026
 1. Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacers [[ICML 2026]](https://icml.cc/virtual/2026/poster/62880)
 2. CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [[ICML 2026]](https://icml.cc/virtual/2026/poster/62489)
@@ -146,6 +148,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 9. **[2026]** DCRDF-Net: A Dual-Channel Reverse-Distillation Fusion Network for 3D Industrial Anomaly Detection [[Sensors]](https://www.mdpi.com/1424-8220/26/2/412)
 10. **[2026]** Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[CVPR 2026]](https://arxiv.org/abs/2603.02629) [[code]](https://github.com/longkaifang/IB-IUMAD)
 11. **[2026]** SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.05632)
+12. **[2026]** CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)
 
 ### 1.2 Point Cloud+RGB
 
