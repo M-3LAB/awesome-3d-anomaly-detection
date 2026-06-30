@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/6/23*]. 
+/We discuss public datasets and related studies in detail [*updated: v4.4 2026/7/1*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -291,6 +291,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 5. **[2025]** Probing 3D Anomalies via Multi-View Registration and Dual-Residual Analysis [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5868807)
 6. **[2026]** DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples [[Arxiv]](https://arxiv.org/pdf/2602.10806)
 7. **[2026]** VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment [[Arxiv]](https://arxiv.org/abs/2606.04369)
+8. **[2026]** Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2606.25740)
 
 ### 2.3 Zero-shot LLM Method
 1. **[2023]** Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [[Arxiv2023]](https://arxiv.org/abs/2311.02782)
@@ -309,6 +310,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 14. **[2026]** CoGeoAD: Hierarchical Color-Geometric Fusion with Multi-View Attention for Zero-Shot 3D Anomaly Detection [[ICML 2026]](https://icml.cc/virtual/2026/poster/62489)
 15. **[2026]** Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2605.05850)
 16. **[2026]** Where & What Anomaly? A Framework for Pose-Agnostic Anomaly Detection and Zero-Shot Semantic Classification [[ICMR 2026]](https://dl.acm.org/doi/full/10.1145/3805622.3810880)
+17. **[2026]** SimpleZ3D: A simple framework for zero-shot 3D industrial anomaly detection [[Pattern Recognition]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012021)
 
 
 ## Anomalies Synthetic
