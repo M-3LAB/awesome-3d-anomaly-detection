@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-/We discuss public datasets and related studies in detail [*updated: v4.4 2026/7/1*]. 
+/We discuss public datasets and related studies in detail [*updated: v4.4 2026/7/2*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -193,6 +193,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 12. **[2026]** Latent Space Recovery and Disentangled Fusion for Incomplete Multimodal Industrial Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6379324)
 13. **[2026]** Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection [[CVPR 2026 Finding]](https://arxiv.org/search/?query=3D+anomaly+detection&searchtype=all&source=header) [[code]](https://alex-costanzino.github.io/modmap/)
 14. **[2026]** Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacers [[ICML 2026]](https://icml.cc/virtual/2026/poster/62880)
+15. **[2026]** MaskCL: Mask-driven Cross-Modal Collaborative Learning for Multimodal Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6986029&__cf_chl_f_tk=7hzpyYF8uCvMIBxKvrD9iH6EvaNchxOfJDCyXQaJZqM-1782969680-1.0.1.1-J6gU_A_jwLtrTvmBOjPl.pSXo9vI9hauvvBam1dlsmU)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
