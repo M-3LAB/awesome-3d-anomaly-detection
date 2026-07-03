@@ -89,6 +89,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 ## Conference Summary
 ### ECCV2026
 1. CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)
+2. Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.29181) [[code]](https://github.com/vpc-ccg/AF3AD)
    
 ### ICML2026
 1. Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacers [[ICML 2026]](https://icml.cc/virtual/2026/poster/62880)
@@ -316,6 +317,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 
 ## Anomalies Synthetic
 1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
+2. **[2026]** Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.29181) [[code]](https://github.com/vpc-ccg/AF3AD)
 
 ## 3. Pose-agnostic 3D Anomaly Detection
 
