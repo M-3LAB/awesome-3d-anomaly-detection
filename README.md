@@ -8,7 +8,7 @@ We warmly welcome any new work that we may have overlooked.
 
 ⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
-[3D Anomaly Detection: A Survey](https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey_.pdf) [*updated: v4.4 2026/6/12*]
+[3D Anomaly Detection: A Survey](https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey_.pdf) [*updated: v4.4 2026/7/4*]
 
 ![Development of 3D Anomaly Detection](develop_of_3AD.png)
 
@@ -253,6 +253,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 11. **[2026]** Vote3D-AD: Unsupervised point cloud anomaly localization via varied defect synthesis and differentiable vote-clustering [[Alexandria Engineering Journal]](https://www.sciencedirect.com/science/article/pii/S1110016826000438)
 12. **[2026]** EG3AD: An Efficient Geometry-Aware Encoding Framework for Reconstruction-Based Multi-Class Point Cloud Anomaly Detection [[Arxiv]](https://openreview.net/forum?id=Ao5WM4ZYFo)
 13. **[2026]** Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2604.03972) [[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
+14. **[2026]** 3D industrial anomaly detection via local-global collaboration [[Measurement Science and Technology]](https://iopscience.iop.org/article/10.1088/1361-6501/ae83d9/meta)
 
 #### 2.1.4 Mamba-based Method
 1. **[2026]** Multi-scale token fusion with Mamba adapters for efficient 3D industrial defect detection [[Array]](https://www.sciencedirect.com/science/article/pii/S2590005626002997)
