@@ -150,6 +150,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 10. **[2026]** Towards an Incremental Unified Multimodal Anomaly Detection: Augmenting Multimodal Denoising From an Information Bottleneck Perspective [[CVPR 2026]](https://arxiv.org/abs/2603.02629) [[code]](https://github.com/longkaifang/IB-IUMAD)
 11. **[2026]** SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.05632)
 12. **[2026]** CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)
+13. **[2026]** DepthGate: Confidence-Gated Depth Verification for Multimodal Industrial Anomaly Detection [[ICCSA 2026]](https://link.springer.com/chapter/10.1007/978-3-032-30488-9_7)
 
 ### 1.2 Point Cloud+RGB
 
