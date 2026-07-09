@@ -255,6 +255,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 13. **[2026]** Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2604.03972) [[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
 14. **[2026]** 3D industrial anomaly detection via local-global collaboration [[Measurement Science and Technology]](https://iopscience.iop.org/article/10.1088/1361-6501/ae83d9/meta)
 
+
 #### 2.1.4 Mamba-based Method
 1. **[2026]** Multi-scale token fusion with Mamba adapters for efficient 3D industrial defect detection [[Array]](https://www.sciencedirect.com/science/article/pii/S2590005626002997)
    
@@ -286,6 +287,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 10. **[2025]** Unsupervised Feature Metric-Based Multimodal Anomaly Detection Method [[CAIBDA]](https://ieeexplore.ieee.org/document/11183147)
 11. **[2026]** Efficient Industrial Point Cloud Anomaly Detection via Spatial Context Aggregation and Selective Anomalous Feature Generation [[Scientific Reports]](https://www.nature.com/articles/s41598-026-41255-2)
 12. **[2026]** Boosting high-resolution 3D point cloud anomaly detection with geometric constraints [[ICMV]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14114/3096417/Boosting-high-resolution-3D-point-cloud-anomaly-detection-with-geometric/10.1117/12.3096417.short)
+13. **[2026]** Uni-DPFM: Boosting Unified 3D Point Cloud Anomaly Detection via Dual-path Feature Matching [[TMM]](https://ieeexplore.ieee.org/abstract/document/11594960)
 
 #### 2.2.3 Multi-view Feature Representation
 1. **[2024]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [[code]](https://github.com/caoyunkang/CPMF)
