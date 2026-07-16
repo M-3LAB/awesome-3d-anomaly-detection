@@ -87,6 +87,9 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 </details>
 
 ## Conference Summary
+### ACM MM2026
+1. TC-MAF: Train-Calibrated Bounded Multi-Evidence Fusion for Multimodal Industrial Anomaly Detection [[ACM MM 2026]](https://arxiv.org/abs/2607.11170)
+   
 ### ECCV2026
 1. CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)
 2. Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.29181) [[code]](https://github.com/vpc-ccg/AF3AD)
@@ -177,6 +180,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 9. **[2025]** Multimodal Industrial Anomaly Detection via Attention-Enhanced Memory-Guided Network [[TMM]](https://ieeexplore.ieee.org/document/11248961)
 10. **[2026]** IAENet: An importance-aware ensemble model for 3D point cloud-based anomaly detection [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253525011595)
 11. **[2026]** Cross-Modal Disagreement-Guided Reliability-Aware Scoring for RGB-3D Industrial Anomaly Detection [[Applied Sciences]](https://www.mdpi.com/2076-3417/16/11/5483)
+12. **[2026]** M2P-AD: Memory-to-Prototype Learning with Boundary-aware Score Refinement for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2607.13499)
 
 #### 1.2.2 Feature-reconstruction Method
 
