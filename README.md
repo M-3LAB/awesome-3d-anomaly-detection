@@ -8,7 +8,7 @@ We warmly welcome any new work that we may have overlooked.
 
 ⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
-[3D Anomaly Detection: A Survey](https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey_.pdf) [*updated: v4.4 2026/7/9*]
+[3D Anomaly Detection: A Survey](https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey_.pdf) [*updated: v4.4 2026/7/21*]
 
 ![Development of 3D Anomaly Detection](develop_of_3AD.png)
 
@@ -200,6 +200,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 13. **[2026]** Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection [[CVPR 2026 Finding]](https://arxiv.org/search/?query=3D+anomaly+detection&searchtype=all&source=header) [[code]](https://alex-costanzino.github.io/modmap/)
 14. **[2026]** Remove the Ambiguity: Few-shot Multimodal Anomaly Detection Using Crossmodal Feature Replacers [[ICML 2026]](https://icml.cc/virtual/2026/poster/62880)
 15. **[2026]** MaskCL: Mask-driven Cross-Modal Collaborative Learning for Multimodal Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6986029&__cf_chl_f_tk=7hzpyYF8uCvMIBxKvrD9iH6EvaNchxOfJDCyXQaJZqM-1782969680-1.0.1.1-J6gU_A_jwLtrTvmBOjPl.pSXo9vI9hauvvBam1dlsmU)
+16. **[2026}** A Lightweight Multi-3D-Memory Extension for RGB-3D Industrial Anomaly Detection via Transformer Compression [[IEEE Access]](https://ieeexplore.ieee.org/abstract/document/11613965/authors#authors)
 
 ##### 1.2.2.2 Flow-based Method
 1. **[2025]** MADFlow: Multimodal difference compensation flow for multimodal anomaly detection [[Neurocomputing]](https://www.sciencedirect.com/science/article/pii/S0925231225019150)
