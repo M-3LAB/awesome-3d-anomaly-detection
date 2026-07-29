@@ -259,6 +259,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 12. **[2026]** EG3AD: An Efficient Geometry-Aware Encoding Framework for Reconstruction-Based Multi-Class Point Cloud Anomaly Detection [[Arxiv]](https://openreview.net/forum?id=Ao5WM4ZYFo)
 13. **[2026]** Hierarchical Point-Patch Fusion with Adaptive Patch Codebook for 3D Shape Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2604.03972) [[code]](https://github.com/alexandor91/Shape-Anomaly-Codebook)
 14. **[2026]** 3D industrial anomaly detection via local-global collaboration [[Measurement Science and Technology]](https://iopscience.iop.org/article/10.1088/1361-6501/ae83d9/meta)
+15. **[2026]** SMISMP: Stable Scoring for Few-Shot 3D Anomaly Detection via Stochastic Metric Modeling [[ICIC2026]](https://dl.acm.org/doi/abs/10.1007/978-981-92-3510-0_40)
 
 
 #### 2.1.4 Mamba-based Method
