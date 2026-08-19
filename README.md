@@ -304,6 +304,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 6. **[2026]** DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples [[Arxiv]](https://arxiv.org/pdf/2602.10806)
 7. **[2026]** VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment [[Arxiv]](https://arxiv.org/abs/2606.04369)
 8. **[2026]** Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2606.25740)
+9. **[2026]** MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation [[ICIG2026]](https://arxiv.org/abs/2608.12148)
 
 ### 2.3 Zero-shot LLM Method
 1. **[2023]** Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [[Arxiv2023]](https://arxiv.org/abs/2311.02782)
@@ -323,6 +324,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 15. **[2026]** Align3D-AD: Cross-Modal Feature Alignment and Dual-Prompt Learning for Zero-shot 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2605.05850)
 16. **[2026]** Where & What Anomaly? A Framework for Pose-Agnostic Anomaly Detection and Zero-Shot Semantic Classification [[ICMR 2026]](https://dl.acm.org/doi/full/10.1145/3805622.3810880)
 17. **[2026]** SimpleZ3D: A simple framework for zero-shot 3D industrial anomaly detection [[Pattern Recognition]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012021)
+18. **[2026]** Zero-Shot 3D Anomaly Detection Using Pre-Trained Models [[ICIP]](https://ieeexplore.ieee.org/abstract/document/11630452)
 
 
 ## Anomalies Synthetic
