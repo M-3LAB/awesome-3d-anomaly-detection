@@ -243,6 +243,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 3. **[2025]** Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2505.05901) [[code]](https://github.com/hzzzzzhappy/MC4AD)
 4. **[2025]** UCA-3DAL: A Unified Contrastive Framework with Test-Time Adaptation for Robust 3D Anomaly Localization [[Arxiv]](https://www.researchgate.net/publication/398446535_A_Unified_Contrastive_Framework_with_Test-Time_Adaptation_for_Robust_3D_Anomaly_Localization) [[code]](https://github.com/M-3LAB/UCA-3DL)
 5. **[2026]** Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models [[CVPR 2026 Workshop on Efficient Deep Learning for Computer Vision (ECV)]](https://arxiv.org/abs/2605.05372)
+6. **[2026]** Alignment-Aware 3D Point Cloud Anomaly Detection with Adversarial Normalizing Flows [[Mach. Learn. Knowl. Extr.]](https://www.mdpi.com/2504-4990/8/7/206)
 
 #### 2.1.3 Shape descriptor Method
 1. **[2023]** Shape-Guided Dual-Memory Learning for 3D Anomaly Detection [[ICML2023]](https://openreview.net/pdf?id=IkSGn9fcPz) [[code]](https://github.com/jayliu0313/Shape-Guided)
@@ -304,7 +305,8 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 6. **[2026]** DMP-3DAD: Cross-Category 3D Anomaly Detection via Realistic Depth Map Projection with Few Normal Samples [[Arxiv]](https://arxiv.org/pdf/2602.10806)
 7. **[2026]** VT-3DAD: Cross-Category 3D Anomaly Detection via Visual-Text Normal Space Alignment [[Arxiv]](https://arxiv.org/abs/2606.04369)
 8. **[2026]** Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2606.25740)
-9. **[2026]** MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation [[ICIG2026]](https://arxiv.org/abs/2608.12148)
+9. **[2026]** DINOBANK: Improving 3D Anomaly Detection via DINOv2-guided Feature Bank [[ICIGP]](https://ieeexplore.ieee.org/abstract/document/11619694?casa_token=8LT2QpGgFDIAAAAA:Z1dPMvlXb8hD-XkP1e1jKbgRc-HmfLCfJVBHqeCGdeBI0zRI_3lGUGlE3zskbI8403skLXCWfRUJGA)
+10. **[2026]** MVFM-3DAD: Multi-view Flow Matching for 3D Anomaly Detection via Density Proxy Estimation [[ICIG2026]](https://arxiv.org/abs/2608.12148)
 
 ### 2.3 Zero-shot LLM Method
 1. **[2023]** Towards Generic Anomaly Detection and Understanding: Large-scale Visual-linguistic Model (GPT-4V) Takes the Lead [[Arxiv2023]](https://arxiv.org/abs/2311.02782)
