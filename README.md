@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/8/29*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/9/4*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -332,6 +332,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 ## Anomalies Synthetic
 1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
 2. **[2026]** Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.29181) [[code]](https://github.com/vpc-ccg/AF3AD)
+3. **[2026]** Irregularity-Aware 3D Anomaly Detection for Product Quality Control [[TASE]](https://ieeexplore.ieee.org/abstract/document/11670526)
 
 ## 3. Pose-agnostic 3D Anomaly Detection
 
