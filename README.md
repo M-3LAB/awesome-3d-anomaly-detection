@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/9/4*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/9/8*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -327,7 +327,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 16. **[2026]** Where & What Anomaly? A Framework for Pose-Agnostic Anomaly Detection and Zero-Shot Semantic Classification [[ICMR 2026]](https://dl.acm.org/doi/full/10.1145/3805622.3810880)
 17. **[2026]** SimpleZ3D: A simple framework for zero-shot 3D industrial anomaly detection [[Pattern Recognition]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012021)
 18. **[2026]** Zero-Shot 3D Anomaly Detection Using Pre-Trained Models [[ICIP]](https://ieeexplore.ieee.org/abstract/document/11630452)
-
+19. **[2026]** PMAD: Prompt-Aligned Multimodal Zero-Shot Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7404513)
 
 ## Anomalies Synthetic
 1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
