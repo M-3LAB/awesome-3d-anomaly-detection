@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/9/8*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/9/19*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -295,6 +295,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 11. **[2026]** Efficient Industrial Point Cloud Anomaly Detection via Spatial Context Aggregation and Selective Anomalous Feature Generation [[Scientific Reports]](https://www.nature.com/articles/s41598-026-41255-2)
 12. **[2026]** Boosting high-resolution 3D point cloud anomaly detection with geometric constraints [[ICMV]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14114/3096417/Boosting-high-resolution-3D-point-cloud-anomaly-detection-with-geometric/10.1117/12.3096417.short)
 13. **[2026]** Uni-DPFM: Boosting Unified 3D Point Cloud Anomaly Detection via Dual-path Feature Matching [[TMM]](https://ieeexplore.ieee.org/abstract/document/11594960)
+14. **[2026]** H-SCGF: Multi-modal 3D Anomaly Detection Combining Structural Gating with Spatially-Consistent Feature Matching [[IEEE Access]](https://ieeexplore.ieee.org/abstract/document/11690559)
 
 #### 2.2.3 Multi-view Feature Representation
 1. **[2024]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [[code]](https://github.com/caoyunkang/CPMF)
@@ -329,10 +330,12 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 18. **[2026]** Zero-Shot 3D Anomaly Detection Using Pre-Trained Models [[ICIP]](https://ieeexplore.ieee.org/abstract/document/11630452)
 19. **[2026]** PMAD: Prompt-Aligned Multimodal Zero-Shot Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7404513)
 
-## Anomalies Synthetic
+## Preprocessing: Anomalies Synthetic or UpSampling.
 1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
 2. **[2026]** Anomaly Factory 3D: A Modular Framework for Diverse Pseudo-Anomaly Synthesis in Unsupervised 3D Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.29181) [[code]](https://github.com/vpc-ccg/AF3AD)
 3. **[2026]** Irregularity-Aware 3D Anomaly Detection for Product Quality Control [[TASE]](https://ieeexplore.ieee.org/abstract/document/11670526)
+4. **[2026]** PC2-AD: Point Cloud Upsampling to Safeguard 3D Anomaly Detection with Resolution-constrained Edge Devices [[Arxiv]](https://arxiv.org/abs/2609.14722) [[code]](https://github.com/gyutong406-commits/PC2-AD)
+
 
 ## 3. Pose-agnostic 3D Anomaly Detection
 
@@ -391,6 +394,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
 2. **[2026]** PointSGRADE: Sparse learning with graph representation for anomaly detection by using unstructured 3D point cloud data [[IISE Transactions]](https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2285840)
 3. **[2026]** Inlier-Centric Post-Training Quantization for Object Detection Models [[Arxiv]](https://arxiv.org/abs/2602.03472)
+   
 ## 6. BibTex Citation
 
 If you find our paper and repository useful, please cite our paper☺️.
