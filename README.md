@@ -329,6 +329,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 17. **[2026]** SimpleZ3D: A simple framework for zero-shot 3D industrial anomaly detection [[Pattern Recognition]](https://www.sciencedirect.com/science/article/abs/pii/S0031320326012021)
 18. **[2026]** Zero-Shot 3D Anomaly Detection Using Pre-Trained Models [[ICIP]](https://ieeexplore.ieee.org/abstract/document/11630452)
 19. **[2026]** PMAD: Prompt-Aligned Multimodal Zero-Shot Anomaly Detection [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7404513)
+20. **[2026]** AT3D-AD: Anomaly Type-Aware 3D Anomaly Detection via Hierarchical Point-Language Alignment [[Arxiv]](https://arxiv.org/pdf/2609.25930)
 
 ## Preprocessing: Anomalies Synthetic or UpSampling.
 1. **[2026]** Synthesis4AD: Synthetic Anomalies are All You Need for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.04658) [[code]](https://github.com/hustCYQ/Synthesis4AD)
