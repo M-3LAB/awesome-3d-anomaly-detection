@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/9/27*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/9/30*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -154,6 +154,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 11. **[2026]** SGANet: Semantic and Geometric Alignment for Multimodal Multi-view Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.05632)
 12. **[2026]** CMDS-AD: Cross-Modal Dual-Stream Decoupling for Few-Shot Anomaly Detection [[ECCV 2026]](https://arxiv.org/abs/2606.20300)
 13. **[2026]** DepthGate: Confidence-Gated Depth Verification for Multimodal Industrial Anomaly Detection [[ICCSA 2026]](https://link.springer.com/chapter/10.1007/978-3-032-30488-9_7)
+14. **[2026]** Normal Tail Suppression for Low-False-Positive RGB–3D Industrial Anomaly Localization [[Journal of Imaging]](https://www.mdpi.com/2313-433X/12/10/466)
 
 ### 1.2 Point Cloud+RGB
 
@@ -181,6 +182,8 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 10. **[2026]** IAENet: An importance-aware ensemble model for 3D point cloud-based anomaly detection [[Information Fusion]](https://www.sciencedirect.com/science/article/pii/S1566253525011595)
 11. **[2026]** Cross-Modal Disagreement-Guided Reliability-Aware Scoring for RGB-3D Industrial Anomaly Detection [[Applied Sciences]](https://www.mdpi.com/2076-3417/16/11/5483)
 12. **[2026]** M2P-AD: Memory-to-Prototype Learning with Boundary-aware Score Refinement for 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2607.13499)
+13. **[2026]** CAFM: A Cross-Modal Local Alignment Fusion Method for RGB-3D Industrial Anomaly Detection [[RS]](https://www.researchsquare.com/article/rs-10461475/v1)
+14. **[2026]]* GBA-AD: Geometry-and Boundary-Aware Unsupervised Anomaly Detection for High-Resolution 3D Point Clouds [[Engineering Research Express]](https://iopscience.iop.org/article/10.1088/2631-8695/aeaac9/pdf)
 
 #### 1.2.2 Feature-reconstruction Method
 
