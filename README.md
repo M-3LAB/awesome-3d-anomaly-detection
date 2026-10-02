@@ -1,6 +1,6 @@
 # Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/9/30*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/10/2*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -18,6 +18,8 @@ We warmly welcome any new work that we may have overlooked.
 
 - [⭐ Tutorial](#-tutorial)
 - [Conference Summary](#conference-summary)
+  - [NIPS 2026](#a-aaai2026)
+  - [ACM MM2026](#a-aaai2026)
   - [ICASSP2026](#a-aaai2026)
   - [CVPR2026](#a-aaai2026)
   - [AAAI2026](#a-aaai2026)
@@ -87,6 +89,9 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 </details>
 
 ## Conference Summary
+### NIPS 2026
+1. Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling [[NIPS2026]](https://arxiv.org/abs/2609.35059) [[code]](https://visualsciencelab-khu.github.io/GRIM_project/)
+
 ### ACM MM2026
 1. TC-MAF: Train-Calibrated Bounded Multi-Evidence Fusion for Multimodal Industrial Anomaly Detection [[ACM MM 2026]](https://arxiv.org/abs/2607.11170)
    
@@ -299,6 +304,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 12. **[2026]** Boosting high-resolution 3D point cloud anomaly detection with geometric constraints [[ICMV]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14114/3096417/Boosting-high-resolution-3D-point-cloud-anomaly-detection-with-geometric/10.1117/12.3096417.short)
 13. **[2026]** Uni-DPFM: Boosting Unified 3D Point Cloud Anomaly Detection via Dual-path Feature Matching [[TMM]](https://ieeexplore.ieee.org/abstract/document/11594960)
 14. **[2026]** H-SCGF: Multi-modal 3D Anomaly Detection Combining Structural Gating with Spatially-Consistent Feature Matching [[IEEE Access]](https://ieeexplore.ieee.org/abstract/document/11690559)
+15. **[2026]** Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling [[NIPS2026]](https://arxiv.org/abs/2609.35059) [[code]](https://visualsciencelab-khu.github.io/GRIM_project/)
 
 #### 2.2.3 Multi-view Feature Representation
 1. **[2024]** Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [[PR2024]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324005120) [[code]](https://github.com/caoyunkang/CPMF)
@@ -386,6 +392,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 9. **[2026]** Open-Set Supervised 3D Anomaly Detection: An Industrial Dataset and a Generalisable Framework for Unknown Defects [[Arxiv]](https://arxiv.org/abs/2604.01171) [[code]](https://github.com/hzzzzzhappy/open-industry/tree/main)
 10. **[2026]** Breaking the Rigid Prior: Towards Articulated 3D Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2604.26868)
 11. **[2026]** Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2605.07149)
+12. **[2026]** Beyond Geometry: Benchmarking and Consistency Reasoning for 3D Logical Anomaly Detection [[Arxiv]](https://arxiv.org/abs/2609.34143)
 
 ### 4.4 Others
 1. **[2026]** 3DLAND: 3D Lesion Abdominal Anomaly Localization Dataset [[Arxiv]](https://arxiv.org/abs/2602.12820) [[code]](https://mehrn79.github.io/3DLAND/)
