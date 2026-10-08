@@ -12,7 +12,7 @@
 
 <div align="center">
   
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/10/2*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/10/8*]. 
 
 Welcome to read our paper and make comments. 
 
