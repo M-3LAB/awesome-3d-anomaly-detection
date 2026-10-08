@@ -1,5 +1,17 @@
-# Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<div align="center">
 
+# Awesome 3D Anomaly Detection [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+</div>
+
+<div align="center">
+  
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=M-3LAB/awesome-3d-anomaly-detection)
+[![GitHub Repo stars](https://img.shields.io/github/stars/M-3LAB/awesome-3d-anomaly-detection?style=social)](https://github.com/M-3LAB/awesome-3d-anomaly-detection/stargazers)
+  
+</div>
+
+<div align="center">
+  
 We discuss public datasets and related studies in detail [*updated: v4.4 2026/10/2*]. 
 
 Welcome to read our paper and make comments. 
@@ -8,7 +20,11 @@ We warmly welcome any new work that we may have overlooked.
 
 ⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
+
 [3D Anomaly Detection: A Survey](https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey_.pdf) [*updated: v4.4 2026/7/21*]
+
+
+</div>
 
 ![Development of 3D Anomaly Detection](develop_of_3AD.png)
 
