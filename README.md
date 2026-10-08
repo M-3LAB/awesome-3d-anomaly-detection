@@ -405,6 +405,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 1. **[2025]** ADDR: Anomaly Detection and Distortion Restoration for 3D Adversarial Point Cloud [[TIFS]](https://ieeexplore.ieee.org/document/11153519)
 2. **[2026]** PointSGRADE: Sparse learning with graph representation for anomaly detection by using unstructured 3D point cloud data [[IISE Transactions]](https://www.tandfonline.com/doi/full/10.1080/24725854.2023.2285840)
 3. **[2026]** Inlier-Centric Post-Training Quantization for Object Detection Models [[Arxiv]](https://arxiv.org/abs/2602.03472)
+4. **[2026]** TracerAD: Training-Free Few-Shot 3D Anomaly Detection for Novel PET Tracers [[MICCAI 2026]](https://papers.miccai.org/miccai-2026/paper/3396_paper.pdf) [[code]](https://github.com/MedAIerHHL/TracerAD)
    
 ## 6. BibTex Citation
 
