@@ -21,7 +21,7 @@ We warmly welcome any new work that we may have overlooked.
 ⭐⭐⭐ We have made a preprint of a review available on ResearchGate, which will be updated regularly.
 
 
-[3D Anomaly Detection: A Survey](https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey_.pdf) [*updated: v4.4 2026/7/21*]
+[3D Anomaly Detection: Approaches, Benchmark, Challenges, and Prospects for Intelligent Manufacturing]([https://github.com/M-3LAB/awesome-3d-anomaly-detection/blob/main/preprint_3dsurvey_.pdf](https://www.researchsquare.com/article/rs-11314110/v1)) [*updated: v4.4 2026/10/12*]
 
 
 </div>
