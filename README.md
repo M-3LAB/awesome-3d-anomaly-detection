@@ -12,7 +12,7 @@
 
 <div align="center">
   
-We discuss public datasets and related studies in detail [*updated: v4.4 2026/10/8*]. 
+We discuss public datasets and related studies in detail [*updated: v4.4 2026/10/19*]. 
 
 Welcome to read our paper and make comments. 
 
@@ -260,6 +260,7 @@ We further recommend the following works: **G²SF: Geometry-Guided Score Fusion 
 9. **[2026]** A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection [[CVPR 2026]](https://arxiv.org/abs/2603.25159) [[code]](https://visualsciencelab-khu.github.io/SeDiR_project/)
 10. **[2026]** Efficient3D-AD: Token-Efficient and View-Aware Zero-shot 3D Multimodal Anomaly Detection [[ICASSP 2026]](https://ieeexplore.ieee.org/abstract/document/11465143)
 11. **[2026]** From comparison to discrimination: A One-step framework for 3D anomaly detection and localization [[Image and Vision Computing]](https://www.sciencedirect.com/science/article/pii/S0262885626001393)
+12. **[2026]** UniGRe-3D: Unified Geometric Reconstruction for Multi-category 3D Anomaly Detection [[Computer Graphics]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.70522?casa_token=R9B70rIDnk4AAAAA%3Af8zDOGt0VucGrqoNRdwkx2mS35kbMg5ZHOPEpjCzN2_SqoQ03rV58oEwIXfVymvAlpM8kCNIfsCSRY8f)
 
 #### 2.1.2 Offset-based Method
 1. **[2024]** R3D-AD: Reconstruction via Diffusion for 3D Anomaly Detection [[ECCV2024]](https://arxiv.org/abs/2407.10862) [[code]](https://zhouzheyuan.github.io/r3d-ad)
